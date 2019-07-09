@@ -34,4 +34,6 @@ Interventions :
 Climate Action Map: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
 
 
+Other links that might be useful : 
 
+Canadian GIS (CANADIAN OPEN DATA AND FREE GEOSPATIAL DATA RESOURCES): https://canadiangis.com/data.php#Canadian-Data
