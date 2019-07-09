@@ -17,6 +17,7 @@ Floods: https://open.canada.ca/data/en/dataset/08b810c2-7c81-40f1-adb1-c32c8a2c9
 Permafrost: https://open.canada.ca/data/en/dataset/ab0c22c6-bbc2-5838-9b6e-7d83c61ba91d
 
 Canadian disaster database: https://www.publicsafety.gc.ca/cnt/rsrcs/cndn-dsstr-dtbs/index-en.aspx
+Contaminated sites : https://www.canada.ca/en/services/environment/pollution-waste-management/contaminated-sites.html
 
 
 Demographic data :
@@ -31,4 +32,6 @@ Aboriginal Lands of Canada Legislative Boundaries: https://open.canada.ca/data/e
 Interventions :
 
 Climate Action Map: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
+
+
 
