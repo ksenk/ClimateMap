@@ -2,7 +2,7 @@
 MétéoHack 2019 project
 
 
-Climate Change/Environment Information
+Climate Change/Environment Information :
 
 Mean Temperature 1951- : https://climate-change.canada.ca/climate-data/#/downscaled-data
 
@@ -16,8 +16,10 @@ Floods: https://open.canada.ca/data/en/dataset/08b810c2-7c81-40f1-adb1-c32c8a2c9
 
 Permafrost: https://open.canada.ca/data/en/dataset/ab0c22c6-bbc2-5838-9b6e-7d83c61ba91d
 
+Canadian disaster database: https://cdd.publicsafety.gc.ca/rslts-eng.aspx?cultureCode=en-Ca&boundingBox=&provinces=1,2,3,4,5,6,7,8,9,10,11,12,13&eventTypes=%27AV%27,%27CE%27,%27DR%27,%27FL%27,%27GS%27,%27HE%27,%27HU%27,%27SO%27,%27SS%27,%27ST%27,%27TO%27,%27WF%27,%27SW%27,%27LS%27&eventStartDate=&injured=&evacuated=&totalCost=&dead=&normalizedCostYear=1
 
-Demographic data
+
+Demographic data :
 
 Income: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901
 
@@ -25,8 +27,8 @@ Residential Property Values: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?p
 
 Aboriginal Lands of Canada Legislative Boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
 
-Interventions
+
+Interventions :
 
 Climate Action Map: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
 
-vvcvc
