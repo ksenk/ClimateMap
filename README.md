@@ -21,8 +21,9 @@ Demographic data
 
 Income: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901
 
-Aboriginal Lands of Canada Legislative Boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
+Residential Property Values: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410001302
 
+Aboriginal Lands of Canada Legislative Boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
 
 Interventions
 
