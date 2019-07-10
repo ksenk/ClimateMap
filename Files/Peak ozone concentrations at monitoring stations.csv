@@ -1,0 +1,387 @@
+Station number,Station name,Address,City,Province,Latitude,Longitude,Local land use,Station type,Concentration,Units,Station details,Report year
+10102,Water Street Post Office,354 Water Street,St. John's,Newfoundland and Labrador,47.56038,-52.71147,Residential,General population exposure,49.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210102&GoCTemplateCulture=en-CA
+",2016
+10401,Mount Pearl,Old Placentia Road,Mount Pearl,Newfoundland and Labrador,47.50513,-52.79476,Residential,General population exposure,42.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210401&GoCTemplateCulture=en-CA
+",2016
+10501,Abitibi Site,Scott Avenue,Grand Falls - Windsor,Newfoundland and Labrador,48.92696,-55.65966,Industrial,General population exposure,46.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210501&GoCTemplateCulture=en-CA
+",2016
+10601,Goose Bay,Abbot Street,Happy Valley - Goose Bay,Newfoundland and Labrador,53.31111,-60.36667,Industrial,General population exposure,47.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210601&GoCTemplateCulture=en-CA
+",2016
+10602,Macpherson Avenue,Macpherson Ave,Corner Brook,Newfoundland and Labrador,48.95224,-57.92207,Residential,General population exposure,46.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210602&GoCTemplateCulture=en-CA
+",2016
+10801,Port au Choix,Port au Choix (Town Hall),Port Aux Choix,Newfoundland and Labrador,50.7123,-57.36421,Forested,Regional background,44.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0210801&GoCTemplateCulture=en-CA
+",2016
+30118,Vogue Building,1649 Barrington Street,Halifax,Nova Scotia,44.646425,-63.573383,Residential,General population exposure,41.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230118&GoCTemplateCulture=en-CA
+",2016
+30120,Lake Major,341 Cherrybrook Road,Halifax,Nova Scotia,44.719799,-63.480754,Forested,General population exposure,48.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230120&GoCTemplateCulture=en-CA
+",2016
+30201,Port Hawkesbury,23 Embree Street,Port Hawkesbury,Nova Scotia,45.6141612,-61.3623563,Residential,General population exposure,47.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230201&GoCTemplateCulture=en-CA
+",2016
+30310,Welton Street Sydney,71 Welton Street,Sydney,Nova Scotia,46.14222,-60.17252,Residential,General population exposure,45.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230310&GoCTemplateCulture=en-CA
+",2016
+30501,Kejimkujik National Park,National Park,Kejimkujik,Nova Scotia,44.433611,-65.205833,Forested,Regional background,48.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230501&GoCTemplateCulture=en-CA
+",2016
+30701,Aylesford Mountain,"1009 Mountain Brow Road, Kings County",Aylesford,Nova Scotia,45.07267,-64.84033,Forested,Regional background,56.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230701&GoCTemplateCulture=en-CA
+",2016
+30901,Pictou,91 Beeches Road,Pictou,Nova Scotia,45.68167,-62.69664,Residential,General population exposure,42.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0230901&GoCTemplateCulture=en-CA
+",2016
+40103,Fredericton-Aberdeen,437 Aberdeen Street,Fredericton,New Brunswick,45.957318,-66.646719,Residential,General population exposure,45.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240103&GoCTemplateCulture=en-CA
+",2016
+40203,Forest Hills,Mountain Road,Saint John,New Brunswick,45.308779,-66.00811199999998,Residential,Point source influenced,49,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240203&GoCTemplateCulture=en-CA
+",2016
+40207,West Side,476 Lancaster Avenue W.,Saint John,New Brunswick,45.252898,-66.080065,Residential,Point source influenced,47.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240207&GoCTemplateCulture=en-CA
+",2016
+40302,Moncton,5 Thanet Street,Moncton,New Brunswick,46.101578,-64.789661,Residential,Transportation source influenced,49.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240302&GoCTemplateCulture=en-CA
+",2016
+40701,Norton - Kings County,308 Hwy 124,Norton - Kings County,New Brunswick,45.64192,-65.70127,Forested,Regional background,51.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240701&GoCTemplateCulture=en-CA
+",2016
+40901,St. Andrews - Huntsman Marine Sciences Ctr.,Brandy Cove Road,St. Andrews,New Brunswick,45.086912,-67.074036,Parks,General population exposure,52.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0240901&GoCTemplateCulture=en-CA
+",2016
+41101,St. Leonard,312 Ch l'Aeroport,St. Leonard,New Brunswick,47.157628,-67.831015,Forested,Regional background,48.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0241101&GoCTemplateCulture=en-CA
+",2016
+41201,Lower Newcastle,55 Route 11 Hwy,Lower Newcastle,New Brunswick,47.071087,-65.423534,Agricultural,Regional background,47.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0241201&GoCTemplateCulture=en-CA
+",2016
+41302,Bathurst,1255 Rough Waters Drive,Bathurst,New Brunswick,47.609693,-65.633509,Residential,General population exposure,47.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0241302&GoCTemplateCulture=en-CA
+",2016
+50103,Montréal-Saint-Jean-Baptiste,"1050 A, Boul. Saint-Jean-Baptiste",Montréal,Quebec,45.641279999999995,-73.49939,Residential,General population exposure,56.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250103&GoCTemplateCulture=en-CA
+",2016
+50109,Montréal-Échangeur Décarie,"2495 Duncan / Decarie, Mt-Royal",Montréal,Quebec,45.502679,-73.663875,Industrial,Transportation source influenced,53.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250109&GoCTemplateCulture=en-CA
+",2016
+50113,Laval-Chomedey,1160 Boul Pie-IX,Laval,Quebec,45.547463,-73.7483166,Residential,General population exposure,57.7,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250113&GoCTemplateCulture=en-CA
+",2016
+50119,Longueuil,Face au 1819 Rue Victoria,Longueuil,Quebec,45.52207,-73.4881,Residential,General population exposure,59.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250119&GoCTemplateCulture=en-CA
+",2016
+50122,Brossard - Parc Sorbonne,En Face du 8400 Avenue Sorbonne,Brossard,Quebec,45.44866,-73.468631,Residential,General population exposure,59.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250122&GoCTemplateCulture=en-CA
+",2016
+50126,Montréal-Sainte-Anne de Bellevue,20965 Ch. Sainte-Marie,Montréal,Quebec,45.426513,-73.92228923,Residential,General population exposure,58.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250126&GoCTemplateCulture=en-CA
+",2016
+50128,Montréal-Aéroport de Montréal 1,"90-A Rue Herve-Saint-Martin, Dorval",Montréal,Quebec,45.468322,-73.741198,Commercial,General population exposure,55.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250128&GoCTemplateCulture=en-CA
+",2016
+50129,Montréal-Riviére-Des-Prairies,12400 Wilfrid-Ouellette (R-D-P),Montréal,Quebec,45.651691,-73.573825,Residential,General population exposure,59.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250129&GoCTemplateCulture=en-CA
+",2016
+50134,Montréal-Molson,2580 Saint-Joseph Est,Montréal,Quebec,45.54271,-73.57176,Industrial,General population exposure,59.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250134&GoCTemplateCulture=en-CA
+",2016
+50135,Montréal-Caserne 17,4240 Rue Charleroi,Montréal,Quebec,45.5934,-73.63726,Residential,General population exposure,57.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250135&GoCTemplateCulture=en-CA
+",2016
+50136,Montréal-St-Dominique,75 Rue Ontario Est,Montréal,Quebec,45.51222,-73.56692,Residential,General population exposure,59.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250136&GoCTemplateCulture=en-CA
+",2016
+50138,Montréal-York/Roberval,1540 Roberval,Montréal,Quebec,45.464611,-73.582583,Residential,Transportation source influenced,59.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250138&GoCTemplateCulture=en-CA
+",2016
+50204,Gatineau-Hull,"255 St-Redempteur, Hull",Gatineau,Quebec,45.435987,-75.723429,Residential,General population exposure,61.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250204&GoCTemplateCulture=en-CA
+",2016
+50308,Québec-Vieux-Limoilou,600 Rue des Sables,Quebec,Quebec,46.821177,-71.220495,Residential,General population exposure,51.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250308&GoCTemplateCulture=en-CA
+",2016
+50310,Québec- Collège St-Charles-Garnier,1150 Boul. Rene-Levesque O.,Quebec,Quebec,46.794873,-71.246387,Residential,General population exposure,54.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250310&GoCTemplateCulture=en-CA
+",2016
+50311,Québec-École Les Primevères,"1465, Rue Felix-Antoine-Savard",Quebec,Quebec,46.774167,-71.369722,Residential,General population exposure,53,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250311&GoCTemplateCulture=en-CA
+",2016
+50404,Sherbrooke Parc-Cambron,"655, Rue Papineau",Sherbrooke,Quebec,45.41231,-71.8746,Residential,General population exposure,57.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250404&GoCTemplateCulture=en-CA
+",2016
+50504,Saguenay-Uqac,"789 Boul des Etudiants, Chicoutimi",Saguenay,Quebec,48.416374,-71.052412,Residential,General population exposure,56.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250504&GoCTemplateCulture=en-CA
+",2016
+50604,Rouyn-Noranda-Parc Tremblay,1570 Rue Paradis,Rouyn-Noranda,Quebec,48.234087,-78.982778,Residential,Point source influenced,56.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250604&GoCTemplateCulture=en-CA
+",2016
+50803,Trois Rivieres - École Mees,Rue Whitehead,Trois Rivières,Quebec,46.357175,-72.546187,Residential,General population exposure,61.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0250803&GoCTemplateCulture=en-CA
+",2016
+51501,Saint-Zéphirin-De-Courval,701 Rang Saint-Michel,St. Zephirin-De-Courval,Quebec,46.042233333333336,-72.65976111111111,Agricultural,Regional background,57.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0251501&GoCTemplateCulture=en-CA
+",2016
+52001,Charette,Au Nord du 170 2e Rang,Charette,Quebec,46.4416,-72.89241,Agricultural,Regional background,56.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252001&GoCTemplateCulture=en-CA
+",2016
+52201,Saint-Simon,"Derriere le 83, 4e Rang Est",Saint-Simon,Quebec,45.715614,-72.840249,Agricultural,Regional background,57.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252201&GoCTemplateCulture=en-CA
+",2016
+52301,Saint-Faustin-Lac-Carré,4507 Chemin du Lac (Caribou),Saint-Faustin-Lac-Carre,Quebec,46.035,-74.48083,Forested,Regional background,60.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252301&GoCTemplateCulture=en-CA
+",2016
+52401,Parc de la Gatineau-La Pêche,Lac Philippe - Masham,La Peche,Quebec,45.622378,-76.018046,Parks,Regional background,62.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252401&GoCTemplateCulture=en-CA
+",2016
+52601,Varennes-Chemin de la Baronnie,4744 Montee Baronie,Varennes,Quebec,45.722896,-73.376808,Agricultural,General population exposure,60.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252601&GoCTemplateCulture=en-CA
+",2016
+52801,Auclair,66 Rang St-Gregoire Nord,Auclair,Quebec,47.73333,-68.70722,Forested,Regional background,52.2,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0252801&GoCTemplateCulture=en-CA
+",2016
+53201,Réserve Faunique Ashuapmushuan-Pémonca,Route 167- la Dore,La Dore,Quebec,48.80972,-72.73889,Forested,Regional background,52.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253201&GoCTemplateCulture=en-CA
+",2016
+53301,Deschambault-Grondines,"334, 3 E Rang - Deshambault",Deschambault,Quebec,46.682373,-71.965903,Agricultural,Regional background,56.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253301&GoCTemplateCulture=en-CA
+",2016
+53501,Saint-François-De-Lîle-D'Orléans,"Face au 198,  Royale Ïle d'Orleans",Saint-François,Quebec,47.015308,-70.862523,Forested,Regional background,54.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253501&GoCTemplateCulture=en-CA
+",2016
+53601,Notre-Dame-Du-Rosaire,Rang St-Louis,Notre-Dame-Du-Rosaire,Quebec,46.84889,-70.45418,Forested,Regional background,55.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253601&GoCTemplateCulture=en-CA
+",2016
+53701,Saint-Hilaire-De-Dorset,Rang Dorset,St-Hilaire-De-Dorset,Quebec,45.82486111111111,-70.856025,Forested,Regional background,61.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253701&GoCTemplateCulture=en-CA
+",2016
+53801,Tingwick,Chemin du Radar et Warwick,Tingwick,Quebec,45.905785,-71.948695,Agricultural,Regional background,61.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253801&GoCTemplateCulture=en-CA
+",2016
+53901,Lac-Édouard,Derriere l'hopital Village,Lac-Edouard,Quebec,47.64722,-72.29056,Agricultural,Regional background,60,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0253901&GoCTemplateCulture=en-CA
+",2016
+54102,Round Top Ridge,Mont Sutton/Round Top Ridge,Sutton,Quebec,45.088611,-72.55694399999999,Forested,Regional background,61.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254102&GoCTemplateCulture=en-CA
+",2016
+54201,Chapais,Chapais,Chapais,Quebec,49.822282,-74.97529,Forested,Regional background,53,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254201&GoCTemplateCulture=en-CA
+",2016
+54401,Saint-Anicet,1128 de la Guerre,Saint-Anicet,Quebec,45.120624,-74.2896,Agricultural,Regional background,59,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254401&GoCTemplateCulture=en-CA
+",2016
+54501,L'Assomption,801 St-Etienne/Route 344,L'Assomption,Quebec,45.80942,-73.43473,Agricultural,General population exposure,58.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254501&GoCTemplateCulture=en-CA
+",2016
+54801,Stukely,Chemin Montbel,Stukely-Sud,Quebec,45.365683,-72.265099,Forested,Regional background,62.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254801&GoCTemplateCulture=en-CA
+",2016
+54901,Ditton,Chemin du Petit-Canada Ouest,La Patrie,Quebec,45.37333,-71.250167,Forested,Regional background,60.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0254901&GoCTemplateCulture=en-CA
+",2016
+55001,Mont Saint-Michel,215 4 Ieme Rang Gravel,Ferme Neuve,Quebec,46.76866,-75.432728,Forested,Regional background,55.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255001&GoCTemplateCulture=en-CA
+",2016
+55101,Bell,Chemin Riviere Bell,Senneterre,Quebec,48.431648,-77.196674,Forested,Regional background,54.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255101&GoCTemplateCulture=en-CA
+",2016
+55201,Lemieux,1290 Rte des Atocas,Lemieux,Quebec,46.3037,-72.060685,Forested,Regional background,57.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255201&GoCTemplateCulture=en-CA
+",2016
+55301,Saint-Jean-Sur-Richelieul-L'Acadie,"Ferme Exp., 1134 Route 219",Saint-Jean-Sur-Richelieu,Quebec,45.29413,-73.34857,Agricultural,Regional background,58.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255301&GoCTemplateCulture=en-CA
+",2016
+55501,Frelighsburg,Frelighsburg,Frelighsburg,Quebec,45.041384,-72.856506,Forested,Regional background,61.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255501&GoCTemplateCulture=en-CA
+",2016
+55601,Mingan,Mingan,Mingan,Quebec,50.27139,-64.22639,Forested,Regional background,46.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255601&GoCTemplateCulture=en-CA
+",2016
+55702,Lévis - Parc Georges-Maranda,200 Rue des Commandeurs,Levis,Quebec,46.80238,-71.16834,Residential,General population exposure,51.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0255702&GoCTemplateCulture=en-CA
+",2016
+60104,Ottawa Downtown,Rideau & Wurtemburg,Ottawa,Ontario,45.43433,-75.676,Residential,General population exposure,59.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260104&GoCTemplateCulture=en-CA
+",2016
+60106,Ottawa Central,960 Carling Ave (Cow Lane),Ottawa,Ontario,45.38287,-75.71387,Agricultural,General population exposure,59.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260106&GoCTemplateCulture=en-CA
+",2016
+60204,Windsor Downtown,467 University Ave. West,Windsor,Ontario,42.315778,-83.043667,Residential,Transportation source influenced,73.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260204&GoCTemplateCulture=en-CA
+",2016
+60211,Windsor West,College & South St. / 928 South St.,Windsor,Ontario,42.292889,-83.073139,Residential,Transportation source influenced,74,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260211&GoCTemplateCulture=en-CA
+",2016
+60304,Kingston 3,Near 43 Beachgrove Lane,Kingston,Ontario,44.21987,-76.52113,Residential,General population exposure,68.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260304&GoCTemplateCulture=en-CA
+",2016
+60410,Toronto East,Lawrence & Kennedy,Toronto,Ontario,43.74792,-79.27406,Industrial,Transportation source influenced,68.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260410&GoCTemplateCulture=en-CA
+",2016
+60421,Toronto North,Yonge St. & Hendon Ave.,Toronto,Ontario,43.781584,-79.41773,Residential,Transportation source influenced,71,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260421&GoCTemplateCulture=en-CA
+",2016
+60428,"Brampton, Brampton",525 Main St. N./ Peel Manor,Brampton,Ontario,43.69875,-79.78092,Residential,General population exposure,67.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260428&GoCTemplateCulture=en-CA
+",2016
+60430,Toronto West,125 Resources Road,Toronto,Ontario,43.709444,-79.5435,Commercial,General population exposure,63.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260430&GoCTemplateCulture=en-CA
+",2016
+60433,"Bay & Wellesley, Toronto Downtown",Bay/wellesey St.,Toronto,Ontario,43.66417,-79.38722,Residential,Transportation source influenced,64.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260433&GoCTemplateCulture=en-CA
+",2016
+60434,Mississauga,3359 Mississauga Road North,Mississauga,Ontario,43.54697,-79.65869,Commercial,General population exposure,68.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260434&GoCTemplateCulture=en-CA
+",2016
+60435,Etobicoke South-2,461 Kipling Avenue,Toronto,Ontario,43.610761,-79.52194,Industrial,Point source influenced,63.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260435&GoCTemplateCulture=en-CA
+",2016
+60512,"Beasley Park, Hamilton Downtown",Elgin & Kelly,Hamilton,Ontario,43.25778,-79.86167,Residential,Point source influenced,70.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260512&GoCTemplateCulture=en-CA
+",2016
+60513,"Hamilton Mountain, Hamilton Mountain",Vickers Rd. & East 18th. St.,Hamilton,Ontario,43.22942,-79.86278,Residential,Point source influenced,68.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260513&GoCTemplateCulture=en-CA
+",2016
+60515,"Main St. & Hwy 403, Hamilton West",Main St. & Hwy 403,Hamilton,Ontario,43.25744,-79.90775,Residential,General population exposure,66.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260515&GoCTemplateCulture=en-CA
+",2016
+60610,Sudbury,155 Elm Street,Sudbury,Ontario,46.49194,-81.00311,Residential,Point source influenced,62.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260610&GoCTemplateCulture=en-CA
+",2016
+60709,"Sault College, Sault Ste. Marie","443 Northern Ave., Sault College",Sault Ste. Marie,Ontario,46.53319,-84.30992,Commercial,Point source influenced,63.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260709&GoCTemplateCulture=en-CA
+",2016
+60809,"421 James Street South, Thunder Bay",421 James Street South,Thunder Bay,Ontario,48.37939,-89.29017,Residential,General population exposure,54.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260809&GoCTemplateCulture=en-CA
+",2016
+60904,London,42 St. Julien Street,London,Ontario,42.97446,-81.20086,Residential,General population exposure,70,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0260904&GoCTemplateCulture=en-CA
+",2016
+61104,"10 Hospital Drive, Peterborough",10 Hospital Drive,Peterborough,Ontario,44.301833333333335,-78.34638611111112,Residential,General population exposure,71.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261104&GoCTemplateCulture=en-CA
+",2016
+61201,"Memorial Park, Cornwall",Bedford & Third St.,Cornwall,Ontario,45.0179806,-74.7353139,Residential,General population exposure,59.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261201&GoCTemplateCulture=en-CA
+",2016
+61302,"Argyle Crescent, St. Catharines",62 Argyle Crescent/ Pump Stn.,St. Catharines,Ontario,43.16006,-79.23475,Residential,General population exposure,67.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261302&GoCTemplateCulture=en-CA
+",2016
+61402,"324 Grand River Ave., Brantford",324 Grand River Ave.,Brantford,Ontario,43.13861,-80.29264,Industrial,General population exposure,72,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261402&GoCTemplateCulture=en-CA
+",2016
+61502,"West Ave. & Homewood, Kitchener",West Ave. & Homewood,Kitchener,Ontario,43.443833,-80.503806,Residential,General population exposure,69.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261502&GoCTemplateCulture=en-CA
+",2016
+61603,"8Th Line/Glenashton Dr., Halton Reserve",8th Line/Glenashton Dr./Halton Reservoir,Oakville,Ontario,43.48692,-79.70228,Residential,General population exposure,66.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261603&GoCTemplateCulture=en-CA
+",2016
+61702,Durham College,2000 Simcoe Street North,Oshawa,Ontario,43.94594,-78.89492,Residential,Transportation source influenced,67.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261702&GoCTemplateCulture=en-CA
+",2016
+61802,"Exhibition Park Arena, Guelph",Exhibition Park & Clark St. W.,Guelph,Ontario,43.55163611111111,-80.26415555555556,Residential,General population exposure,69.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0261802&GoCTemplateCulture=en-CA
+",2016
+62001,"Chippewa St. - DND, North Bay",540 Chippewa St. W./dept. of National Defence,North Bay,Ontario,46.32323,-79.44928,Residential,General population exposure,65.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0262001&GoCTemplateCulture=en-CA
+",2016
+62501,"Tiverton, Tiverton",Bruce Nuclear Visitor Ctr,Tiverton,Ontario,44.31447,-81.54972,Agricultural,Regional background,70.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0262501&GoCTemplateCulture=en-CA
+",2016
+62601,"Experimental Farm, Simcoe",Experimental Farm,Simcoe,Ontario,42.85689599999999,-80.27028199999998,Agricultural,Regional background,67.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0262601&GoCTemplateCulture=en-CA
+",2016
+63001,"Hwy 2 & North Shore Blvd., Burlington",Hwy 2 & North Shore Blvd.,Burlington,Ontario,43.314575,-79.80275555555555,Commercial,General population exposure,69,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0263001&GoCTemplateCulture=en-CA
+",2016
+63301,"Hwy 117 & Paint Lake Road, Dorset",1026 Bellwood Acres Road,Dorset,Ontario,45.224278,-78.932944,Forested,Regional background,64.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0263301&GoCTemplateCulture=en-CA
+",2016
+63701,"Point Blake ""Conservation Area"", Grand Bend",Hwy 21 & County Rd 83/ Water Trmt Plnt,Grand Bend,Ontario,43.33318611111111,-81.74282222222222,Residential,Regional background,72.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0263701&GoCTemplateCulture=en-CA
+",2016
+64001,Experimental Lakes Area,Exp. Lakes Area,Exp. Lakes Area,Ontario,49.66389,-93.72111,Water,Regional background,60,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0264001&GoCTemplateCulture=en-CA
+",2016
+64101,Algoma,Algoma,Algoma,Ontario,47.03361,-84.37889,Forested,Regional background,67,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0264101&GoCTemplateCulture=en-CA
+",2016
+64401,Egbert,Egbert,Egbert,Ontario,44.231111,-79.783056,Forested,Regional background,69.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0264401&GoCTemplateCulture=en-CA
+",2016
+65001,"Old Puc, Barrie",85 Perry Street,Barrie,Ontario,44.38231388888889,-79.70243055555555,Residential,General population exposure,65.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265001&GoCTemplateCulture=en-CA
+",2016
+65101,"Eagle St. & McCaffrey Rd., Newmarket",Eagle St. & McCaffrey Rd.,Newmarket,Ontario,44.04431,-79.48325,Residential,General population exposure,68.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265101&GoCTemplateCulture=en-CA
+",2016
+65201,"7 Bay Street, Parry Sound",7 Bay Street,Parry Sound,Ontario,45.33786,-80.03817,Water,General population exposure,62.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265201&GoCTemplateCulture=en-CA
+",2016
+65301,"Elgin Water Treatment Plant, Port Stanley",43665 Dexter Line,Port Stanley,Ontario,42.67208,-81.16289,Agricultural,Regional background,72.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265301&GoCTemplateCulture=en-CA
+",2016
+65401,"Water Treatment Plant, Belleville",2 Sidney Street,Belleville,Ontario,44.15053,-77.3955,Water,General population exposure,76.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265401&GoCTemplateCulture=en-CA
+",2016
+65801,Chatham,435 Grand Avenue W.,Chatham,Ontario,42.40369,-82.20831,Residential,General population exposure,68,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265801&GoCTemplateCulture=en-CA
+",2016
+65901,Pickle Lake,Pickle Lake,Pickle Lake,Ontario,51.45222,-90.2175,Water,Regional background,54.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0265901&GoCTemplateCulture=en-CA
+",2016
+66101,Bonner Lake,Bonner Lake,Moonbeam,Ontario,49.386389,-82.121389,Forested,Regional background,57.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0266101&GoCTemplateCulture=en-CA
+",2016
+66201,Petawawa,"Natural Resources Canada, Petawa Forest Reserve Facilities,",Chalk River,Ontario,45.996722,-77.441194,Forested,Regional background,60.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0266201&GoCTemplateCulture=en-CA
+",2016
+70118,Scotia,299 Scotia St.,Winnipeg,Manitoba,49.93207,-97.11317,Residential,General population exposure,36.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0270118&GoCTemplateCulture=en-CA
+",2016
+70119,Ellen,65 Ellen Street,Winnipeg,Manitoba,49.89799,-97.14653,Residential,General population exposure,52,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0270119&GoCTemplateCulture=en-CA
+",2016
+70203,Brandon,1430 Victoria Avenue East (Assiniboine Community College),Brandon,Manitoba,49.83918,-99.9206,Industrial,General population exposure,49.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0270203&GoCTemplateCulture=en-CA
+",2016
+70301,Flin Flon,143 Main Street,Flin Flon,Manitoba,54.76852,-101.87747,Residential,Transportation source influenced,44.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0270301&GoCTemplateCulture=en-CA
+",2016
+70501,Thompson Westwood,48 Thompson Drive N,Thompson,Manitoba,55.74719,-97.87353,Residential,Point source influenced,49.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0270501&GoCTemplateCulture=en-CA
+",2016
+80111,Regina-2,1621 Albert St.,Regina,Saskatchewan,50.4527,-104.616,Residential,General population exposure,59.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0280111&GoCTemplateCulture=en-CA
+",2016
+80211,Saskatoon-Corman Park,511 1st Avenue North,Saskatoon,Saskatchewan,52.13613,-106.66293,Residential,General population exposure,54.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0280211&GoCTemplateCulture=en-CA
+",2016
+80402,Prince Albert,63 - 12th Street East,Prince Albert,Saskatchewan,53.201694,-105.75203,Residential,General population exposure,50.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0280402&GoCTemplateCulture=en-CA
+",2016
+81001,Speedy Creek,1200 Begg St. W,Swift Current,Saskatchewan,50.285833,-107.81689,Residential,General population exposure,40.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0281001&GoCTemplateCulture=en-CA
+",2016
+90120,Edmonton South,6240 113 Street,Edmonton,Alberta,53.50022,-113.526056,Residential,General population exposure,61.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290120&GoCTemplateCulture=en-CA
+",2016
+90121,Edmonton East,17 Street & 105 Avenue,Edmonton,Alberta,53.54823,-113.36811,Industrial,Point source influenced,58.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290121&GoCTemplateCulture=en-CA
+",2016
+90130,Edmonton Central,10255 - 104th Street,Edmonton,Alberta,53.544489999999996,-113.49893,Residential,General population exposure,53.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290130&GoCTemplateCulture=en-CA
+",2016
+90222,Calgary Northwest,39 St. & 29 Ave. N.W.,Calgary,Alberta,51.079222,-114.141828,Residential,General population exposure,58.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290222&GoCTemplateCulture=en-CA
+",2016
+90230,Calgary Central - Inglewood,2425 9th Ave Se,Calgary,Alberta,51.0309,-114.0091,Parks,General population exposure,61.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290230&GoCTemplateCulture=en-CA
+",2016
+90304,Red Deer - Lancaster,11 Lancaster Drive,Red Deer,Alberta,52.24095,-113.765439,Residential,Transportation source influenced,53.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290304&GoCTemplateCulture=en-CA
+",2016
+90402,Crescent Heights,12th St NW & Division Ave.,Medicine Hat,Alberta,50.04893,-110.68116,Residential,General population exposure,56.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290402&GoCTemplateCulture=en-CA
+",2016
+90502,Lethbridge,,Lethbridge,Alberta,49.71621,-112.8006,Industrial,Point source influenced,56.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290502&GoCTemplateCulture=en-CA
+",2016
+90601,Fort Saskatchewan,9209a-96 Ave,Fort Saskatchewan,Alberta,53.69874,-113.22285,Residential,Transportation source influenced,58.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290601&GoCTemplateCulture=en-CA
+",2016
+90701,Athabasca Valley-Fort Mcmurray,Franklin Avenue,Fort Mcmurray,Alberta,56.73341,-111.39047,Water,General population exposure,113,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290701&GoCTemplateCulture=en-CA
+",2016
+90702,Patricia Mcinnes-Fort Mcmurray,Timberlea Subdivision,Fort Mcmurray,Alberta,56.75139,-111.47662,Residential,General population exposure,71.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290702&GoCTemplateCulture=en-CA
+",2016
+90801,Bertha Ganter-Fort Mckay,Main Street,Fort Mackay,Alberta,57.18941,-111.6405,Forested,Regional background,59.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290801&GoCTemplateCulture=en-CA
+",2016
+90806,Syncrude Ue1-Fort Mckay South,,Fort Mackay,Alberta,57.1492,-111.6424,Forested,Point source influenced,57.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290806&GoCTemplateCulture=en-CA
+",2016
+90807,Wapasu Creek,Located Oustide Approval Boundaries at Pti Camp,Wapasu,Alberta,57.26176,-111.037,Forested,Regional background,57.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0290807&GoCTemplateCulture=en-CA
+",2016
+91101,Elk Island National Park,National Park,Elk Island,Alberta,53.68238199999999,-112.86812,Water,Regional background,60.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291101&GoCTemplateCulture=en-CA
+",2016
+91301,Tomahawk,SE 2 51 6 W5,Tomahawk,Alberta,53.37255,-114.76835,Agricultural,Regional background,58,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291301&GoCTemplateCulture=en-CA
+",2016
+91401,Violet Grove,SE 17 48 08 W5,Violet Grove,Alberta,53.14222,-115.13806,Agricultural,Regional background,53.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291401&GoCTemplateCulture=en-CA
+",2016
+91501,Beaverlodge,Beaverlodge Research Farm,Beaverlodge,Alberta,55.19634,-119.39682,Agricultural,Regional background,58.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291501&GoCTemplateCulture=en-CA
+",2016
+91601,Carrot Creek,SE 31 53 13 W5,Carrot Creek,Alberta,53.621062,-115.869155,Agricultural,Regional background,53.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291601&GoCTemplateCulture=en-CA
+",2016
+91801,Fort Chipewyan,Fort Chipewyan,Fort Chipewyan,Alberta,58.70879,-111.17683,Water,Regional background,51.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291801&GoCTemplateCulture=en-CA
+",2016
+91901,Caroline,16-30-034-5 W5,Caroline,Alberta,51.94687,-114.69744,Agricultural,Regional background,57.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0291901&GoCTemplateCulture=en-CA
+",2016
+92001,Henry Pirker Station,10327 - 107 Avenue,Grande Prairie,Alberta,55.1766,-118.8078,Water,General population exposure,55.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0292001&GoCTemplateCulture=en-CA
+",2016
+92201,Lamont,Rge Rd 203 & Twp Rd 550,Lamont,Alberta,53.76036,-112.88017,Agricultural,Regional background,58.2,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0292201&GoCTemplateCulture=en-CA
+",2016
+92601,Breton,Hwy 20,Breton,Alberta,53.0903,-114.46061,Agricultural,Regional background,54.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0292601&GoCTemplateCulture=en-CA
+",2016
+92901,Edson,7 Ave,Edson,Alberta,53.593771,-116.395822,Industrial,General population exposure,59.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0292901&GoCTemplateCulture=en-CA
+",2016
+93101,Genesee,Range Road 15,Genesee,Alberta,53.3016,-114.2211,Agricultural,Regional background,54,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0293101&GoCTemplateCulture=en-CA
+",2016
+93202,Hinton,Private Road,Hinton,Alberta,53.427301,-117.544067,Open,Regional background,53.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0293202&GoCTemplateCulture=en-CA
+",2016
+94301,Cold Lake South,15 Ave,Cold Lake,Alberta,54.41401388888889,-110.2329388888889,Residential,General population exposure,53.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0294301&GoCTemplateCulture=en-CA
+",2016
+94401,St. Lina,,St Lina,Alberta,54.2165,-111.5026,Forested,Regional background,58.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0294401&GoCTemplateCulture=en-CA
+",2016
+94601,Anzac - Wbea,264 Stony Mountain Rd.,Anzac,Alberta,56.44928,-111.03722,Residential,Regional background,61.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=0294601&GoCTemplateCulture=en-CA
+",2016
+100110,Kensington Park,6400 E. Hastings & Kensington,Metro Van - Burnaby,British Columbia,49.279214,-122.970707,Residential,Transportation source influenced,39.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100110&GoCTemplateCulture=en-CA
+",2016
+100111,Rocky Point Park,Moody & Esplanade St.,Metro Van - Port Moody,British Columbia,49.280893,-122.849291,Water,General population exposure,41.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100111&GoCTemplateCulture=en-CA
+",2016
+100112,Downtown Vancouver,Robson/Hornby,Metro Van - Vancouver,British Columbia,49.282272,-123.12188,Residential,Transportation source influenced,32.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100112&GoCTemplateCulture=en-CA
+",2016
+100119,Burnaby South,5455 Rumble Street,Metro Van - Burnaby,British Columbia,49.21527999999999,-122.98555999999999,Residential,General population exposure,37.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100119&GoCTemplateCulture=en-CA
+",2016
+100121,Second Narrows,75 Riverside Dr. N. Vancouver,Metro Van - Vancouver,British Columbia,49.30167,-123.02027999999999,Industrial,Point source influenced,38.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100121&GoCTemplateCulture=en-CA
+",2016
+100125,North Delta,8544 116th St.,Metro Van - Delta,British Columbia,49.158348,-122.90173,Residential,General population exposure,41.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100125&GoCTemplateCulture=en-CA
+",2016
+100126,Burnaby Mountain,"Sfu, University Dr. W.",Metro Van - Burnaby,British Columbia,49.279809,-122.922267,Commercial,General population exposure,48.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100126&GoCTemplateCulture=en-CA
+",2016
+100127,Surrey East,72nd Ave. and 92 St.,Metro Van - Surrey,British Columbia,49.132928,-122.694224,Residential,Transportation source influenced,45.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100127&GoCTemplateCulture=en-CA
+",2016
+100128,Richmond South,Williams & Aragon,Metro Van - Richmond,British Columbia,49.141437,-123.108215,Residential,General population exposure,43.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100128&GoCTemplateCulture=en-CA
+",2016
+100132,Mahon Park,16th St. & Jones Ave,Metro Van - North Vancouver,British Columbia,49.323994,-123.083496,Residential,General population exposure,41.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100132&GoCTemplateCulture=en-CA
+",2016
+100134,Vancouver Intl. Airport,3153 Templeton Street,Metro Van - Richmond,British Columbia,49.1863888888889,-123.15222,Commercial,General population exposure,40.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100134&GoCTemplateCulture=en-CA
+",2016
+100135,Douglas College,1250 Pinetree Way,Metro Van - Coquitlam,British Columbia,49.288265,-122.79157,Residential,General population exposure,44.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100135&GoCTemplateCulture=en-CA
+",2016
+100140,Tsawwassen,411 Milsom Wynd,Metro Van - Delta,British Columbia,49.009877,-123.081997,Residential,General population exposure,46.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100140&GoCTemplateCulture=en-CA
+",2016
+100143,Agassiz,7170 Cheam Avenue,Agassiz,British Columbia,49.238008,-121.762264,Residential,General population exposure,47.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100143&GoCTemplateCulture=en-CA
+",2016
+100202,Prg Plaza 400,1011 4th Avenue,Prince George,British Columbia,53.914722222222196,-122.74194444444444,Residential,Transportation source influenced,49.7,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100202&GoCTemplateCulture=en-CA
+",2016
+100304,Victoria Topaz,"Sj Willis School, 923 Topaz Ave.",Victoria,British Columbia,48.441942,-123.363165,Residential,Transportation source influenced,43.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100304&GoCTemplateCulture=en-CA
+",2016
+100308,Colwood City Hall,3300 Wishart Road,Colwood,British Columbia,48.42369,-123.49432,Residential,General population exposure,49.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100308&GoCTemplateCulture=en-CA
+",2016
+100401,Federal Building,317 Seymour St.,Kamloops,British Columbia,50.67477,-120.334016,Residential,General population exposure,46.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100401&GoCTemplateCulture=en-CA
+",2016
+100701,Kelowna College,3333 College Way,Kelowna,British Columbia,49.862336,-119.477367,Residential,General population exposure,49.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02100701&GoCTemplateCulture=en-CA
+",2016
+101003,Abbotsford,32995 Bevan Ave.,Metro Van - Abbotsford,British Columbia,49.04258,-122.30982,Residential,General population exposure,44.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101003&GoCTemplateCulture=en-CA
+",2016
+101005,Abbotsford Airport-2,1073 Columbia Street,Metro Van - Abbotsford,British Columbia,49.021554,-122.326523,Agricultural,General population exposure,46.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101005&GoCTemplateCulture=en-CA
+",2016
+101101,Chilliwack Airport,46244 Airport Road,Metro Van-Chilliwack,British Columbia,49.1561111111111,-121.94055555555556,Residential,General population exposure,44.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101101&GoCTemplateCulture=en-CA
+",2016
+101202,Pitt Meadows,18477 Dewdny Trunk,Metro Van-Pitt Meadows,British Columbia,49.245233,-122.70889,Agricultural,General population exposure,43,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101202&GoCTemplateCulture=en-CA
+",2016
+101301,Langley Central,23752 52nd Avenue,Metro Van-Langley,British Columbia,49.09561,-122.567104,Residential,General population exposure,47.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101301&GoCTemplateCulture=en-CA
+",2016
+101401,Hope Airport,62715 Airport Road,Metro Van-Hope,British Columbia,49.369887,-121.49912,Forested,Regional background,51.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101401&GoCTemplateCulture=en-CA
+",2016
+101501,Golden Ears Elem. School,23124 118th Avenue,Metro Van - Maple Ridge,British Columbia,49.21494,-122.582057,Residential,General population exposure,49.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101501&GoCTemplateCulture=en-CA
+",2016
+101603,Squamish Elementary,38370 Buckley Avenue,Squamish,British Columbia,49.70516,-123.15133,Commercial,General population exposure,40.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101603&GoCTemplateCulture=en-CA
+",2016
+101701,Quesnel Senior Secondary,585 Callanan Street,Quesnel,British Columbia,52.98219999999999,-122.49199999999999,Residential,General population exposure,48.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02101701&GoCTemplateCulture=en-CA
+",2016
+102001,Saturna,Saturna,Saturna,British Columbia,48.78333333333333,-123.13333333333333,Forested,Regional background,54.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02102001&GoCTemplateCulture=en-CA
+",2016
+102102,Labieux Road - Govbldg,2080a Labieux Road,Nanaimo,British Columbia,49.20083,-123.99389,Parks,General population exposure,41.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02102102&GoCTemplateCulture=en-CA
+",2016
+102401,Smithers St Josephs,4020 Broadway Avenue,Smithers,British Columbia,54.783308,-127.177324,Residential,General population exposure,45.8,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02102401&GoCTemplateCulture=en-CA
+",2016
+102503,Terrace Skeena Middle School,3411 Munroe Street,Terrace,British Columbia,54.52167,-128.6075,Residential,General population exposure,45.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02102503&GoCTemplateCulture=en-CA
+",2016
+102701,Williams Lake Columneetza School,1045 Western Avenue,Williams Lake,British Columbia,52.14428,-122.150391,Residential,General population exposure,47.9,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02102701&GoCTemplateCulture=en-CA
+",2016
+103502,Castlegar Zinio Place,801 9th Avenue,Castlegar,British Columbia,49.317698,-117.661527,Residential,Point source influenced,38.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02103502&GoCTemplateCulture=en-CA
+",2016
+103602,Mission,32964 9th Avenue,Mission,British Columbia,49.14149,-122.311078,Residential,General population exposure,50.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02103602&GoCTemplateCulture=en-CA
+",2016
+104003,Vernon Science Centre,2704 Highway 6,Vernon,British Columbia,50.260617,-119.270723,Residential,Transportation source influenced,46.6,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02104003&GoCTemplateCulture=en-CA
+",2016
+104803,Duncan Cairnsmore,490 Cairnsmore Street,Duncan,British Columbia,48.784854,-123.715846,Residential,General population exposure,48.1,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02104803&GoCTemplateCulture=en-CA
+",2016
+105001,Meadow Park,Meadow Park,Whistler,British Columbia,50.144285,-122.960402,Parks,General population exposure,47.5,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02105001&GoCTemplateCulture=en-CA
+",2016
+105504,Fort St John Learning Centre,10511 99 Avenue,Fort St. John,British Columbia,56.24473,-120.8561,Residential,General population exposure,50.4,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02105504&GoCTemplateCulture=en-CA
+",2016
+107100,Courtenay Elementary School,1540 Mcphee Avenue,Courtenay,British Columbia,49.682603,-124.996222,Residential,General population exposure,45.3,parts per billion (ppb),"http://indicators-map.canada.ca/App/Detail?id=02107100&GoCTemplateCulture=en-CA
+",2016

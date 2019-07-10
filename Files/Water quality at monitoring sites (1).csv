@@ -1,0 +1,637 @@
+Site number,Site name,Province,Latitude,Longitude,Drainage region ID,Land use category,Tested substances,Core site?,Sampling period,Category,Report year,Site link,Site details
+00BR01AD0054,"Madawaska River above Fraser Dam, Edmundston",New Brunswick,47.365192,-68.32445,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AD0054&GoCTemplateCulture=en-CA
+"
+00BR01AF0080,Saint John River near Limestone above Bridge off Rte 105,New Brunswick,46.927853,-67.6988,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AF0080&GoCTemplateCulture=en-CA
+"
+00BR01AF0084,"Saint John River below St. Basile, Rte 144",New Brunswick,47.354916,-68.23177,23,Populated and Agriculture,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AF0084&GoCTemplateCulture=en-CA
+"
+00BR01AF0085,"Saint John River above Grand Falls Dam, Grand Falls",New Brunswick,47.04939,-67.743164,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AF0085&GoCTemplateCulture=en-CA
+"
+00BR01AG0008,Aroostook River near mouth above Train Bridge,New Brunswick,46.812943,-67.7208,23,Low Agriculture,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AG0008&GoCTemplateCulture=en-CA
+"
+00BR01AH0008,"Tobique River above Riley Brook Bridge, Rte 385",New Brunswick,47.175873,-67.205795,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AH0008&GoCTemplateCulture=en-CA
+"
+00BR01AH0019,"Tobique River below Arthurette Bridge, Rte 109",New Brunswick,46.783,-67.511,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AH0019&GoCTemplateCulture=en-CA
+"
+00BR01AJ0067,"Big Presque Isle Stream above Bridge, Rte 103",New Brunswick,46.399803,-67.61064,23,Medium Agriculture,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AJ0067&GoCTemplateCulture=en-CA
+"
+00BR01AJ0079,"Saint John River below Hartland, Rte 105",New Brunswick,46.279167,-67.50278,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AJ0079&GoCTemplateCulture=en-CA
+"
+00BR01AJ0080,"Saint John River below Florenceville, Rte 105",New Brunswick,46.406082,-67.60597,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AJ0080&GoCTemplateCulture=en-CA
+"
+00BR01AK0045,"Keswick River above Bridge, Rte 105",New Brunswick,45.99443,-66.83637,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0045&GoCTemplateCulture=en-CA
+"
+00BR01AK0155,"Saint John River Lower Lincoln, Rte 102",New Brunswick,45.869305,-66.50769,23,Populated,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0155&GoCTemplateCulture=en-CA
+"
+00BR01AK0157,"Saint John River below Upper Queensbury, Rte 105",New Brunswick,45.979,-67.17616,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0157&GoCTemplateCulture=en-CA
+"
+00BR01AK0158,"Saint John River near Northampton, Rte 105",New Brunswick,46.077835,-67.54885,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0158&GoCTemplateCulture=en-CA
+"
+00BR01AK0159,"Saint John River below Mactaquac Dam, Rte 102",New Brunswick,45.958916,-66.82669,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0159&GoCTemplateCulture=en-CA
+"
+00BR01AK0191,Keswick River below Burtis Corner,New Brunswick,46.03011,-66.8352,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AK0191&GoCTemplateCulture=en-CA
+"
+00BR01AL0036,"Nashwaak River above Marysville Bridge, Rte 8",New Brunswick,45.979305,-66.59096,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AL0036&GoCTemplateCulture=en-CA
+"
+00BR01AM0002,Oromocto River above Bridge Rte 102,New Brunswick,45.85011,-66.51608,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AM0002&GoCTemplateCulture=en-CA
+"
+00BR01AO0105,"Saint John River Lower Burton, Rte 102",New Brunswick,45.8775,-66.3738,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AO0105&GoCTemplateCulture=en-CA
+"
+00BR01AP0021,"Hammond River above French Village Bridge, Rte 860",New Brunswick,45.430332,-65.88618,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0021&GoCTemplateCulture=en-CA
+"
+00BR01AP0067,"Saint John River Evandale, Rte 102",New Brunswick,45.592636,-66.02695,23,Mining,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0067&GoCTemplateCulture=en-CA
+"
+00BR01AP0151,South Branch Kennebecasis River above Penobsquis Bridge,New Brunswick,45.776592,-65.37104,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0151&GoCTemplateCulture=en-CA
+"
+00BR01AP0175,"Canaan River below Bridge, Rte 112",New Brunswick,46.072838,-65.36494,23,Mining,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0175&GoCTemplateCulture=en-CA
+"
+00BR01AP0195,"Canaan River near Canaan Rapids, Rte 112",New Brunswick,45.935417,-65.74844,23,Mining,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0195&GoCTemplateCulture=en-CA
+"
+00BR01AP0241,Kennebecasis River above Bloomfield Bridge,New Brunswick,45.580086,-65.75666,23,Low Agriculture,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0241&GoCTemplateCulture=en-CA
+"
+00BR01AP0308,"Kennebecasis River above Five Points Bridge, Rte 1",New Brunswick,45.807,-65.291,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AP0308&GoCTemplateCulture=en-CA
+"
+00BR01AQ0003,"Lepreau River above Bridge, Rte 780",New Brunswick,45.16968,-66.46797,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AQ0003&GoCTemplateCulture=en-CA
+"
+00BR01AQ0024,"Magaguadavic River St. George, Rte 770",New Brunswick,45.134,-66.824,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AQ0024&GoCTemplateCulture=en-CA
+"
+00BR01AR0021,Digdeguash River near Domonion Hill,New Brunswick,45.19163,-66.95699,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AR0021&GoCTemplateCulture=en-CA
+"
+00BR01AR0067,"St. Croix River below St. Croix Bridge, Rte 4",New Brunswick,45.567688,-67.42748,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AR0067&GoCTemplateCulture=en-CA
+"
+00BR01AR0092,"St. Croix River above Milltown Bridge, Rte 170",New Brunswick,45.17,-67.297,23,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01AR0092&GoCTemplateCulture=en-CA
+"
+00BR01BA0030,"Restigouche River below Montgomery Bridge, Rte 265",New Brunswick,47.662323,-67.49287,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BA0030&GoCTemplateCulture=en-CA
+"
+00BR01BB0002,Kedgwick River near mouth,New Brunswick,47.671192,-67.50939,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BB0002&GoCTemplateCulture=en-CA
+"
+00BR01BE0029,"Upsalquitch River above Robinsonville Bridge, Rte 17",New Brunswick,47.832,-66.886,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BE0029&GoCTemplateCulture=en-CA
+"
+00BR01BJ0057,"Restigouche River Rafting Grounds, Rte 134",New Brunswick,47.90811,-66.949135,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BJ0057&GoCTemplateCulture=en-CA
+"
+00BR01BJ0065,"Jacquet River above Bridge,  Rte 11",New Brunswick,47.89912,-66.02556,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BJ0065&GoCTemplateCulture=en-CA
+"
+00BR01BJ0071,"Nigadoo River above Bridge, Rte 134",New Brunswick,47.746223,-65.71567,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BJ0071&GoCTemplateCulture=en-CA
+"
+00BR01BK0042,"Nepisiguit River above Bridge, Rte 360",New Brunswick,47.441,-65.706,24,Mining,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BK0042&GoCTemplateCulture=en-CA
+"
+00BR01BL0020,"Pokemouche River above Bridge,  Rte 135",New Brunswick,47.636166,-65.091415,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BL0020&GoCTemplateCulture=en-CA
+"
+00BR01BL0037,"Tabusintac River above Bridge, Rte 8",New Brunswick,47.347942,-65.43211,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BL0037&GoCTemplateCulture=en-CA
+"
+00BR01BM0005,Southwest Miramichi River above Porter Brook Bridge,New Brunswick,46.48397,-66.481445,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BM0005&GoCTemplateCulture=en-CA
+"
+00BR01BN0001,Cains River mouth,New Brunswick,46.66497,-65.77541,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BN0001&GoCTemplateCulture=en-CA
+"
+00BR01BO0007,"Southwest Miramichi River below Quarryville Bridge, Rte 108",New Brunswick,46.829693,-65.78547,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BO0007&GoCTemplateCulture=en-CA
+"
+00BR01BO0008,"Renous River below Renous Bridge, Rte 8",New Brunswick,46.816,-65.795,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BO0008&GoCTemplateCulture=en-CA
+"
+00BR01BO0041,"Southwest Miramichi River above Blackville Bridge, Rte 118",New Brunswick,46.733387,-65.822975,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BO0041&GoCTemplateCulture=en-CA
+"
+00BR01BP0001,Little Southwest Miramichi River at Lyttleton Bridge,New Brunswick,46.935944,-65.90872,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,NULL,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BP0001&GoCTemplateCulture=en-CA
+"
+00BR01BQ0012,"Northwest Miramichi River near Exmoor above Bridge, Rte 425",New Brunswick,46.9665,-65.83025,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BQ0012&GoCTemplateCulture=en-CA
+"
+00BR01BQ0020,"Northwest Miramichi River below Wayerton Bridge, Rte 430",New Brunswick,47.134,-65.834,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BQ0020&GoCTemplateCulture=en-CA
+"
+00BR01BS0039,"Buctouche River above Bridge, Rte 490",New Brunswick,46.371056,-64.94341,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BS0039&GoCTemplateCulture=en-CA
+"
+00BR01BS0085,"Richibucto River above Smiths Corner Bridge, Rte 116",New Brunswick,46.51,-65.163,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BS0085&GoCTemplateCulture=en-CA
+"
+00BR01BU0176,"Petitcodiac River above Salisbury Bridge, Rte 112",New Brunswick,46.02121,-65.03462,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Good,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BU0176&GoCTemplateCulture=en-CA
+"
+00BR01BU0209,"Petitcodiac River, Bridge below Petitcodiac",New Brunswick,45.946762,-65.167366,24,Low Agriculture,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Fair,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BU0209&GoCTemplateCulture=en-CA
+"
+00BR01BV0024,Big Salmon River mouth,New Brunswick,45.42299,-65.40989,24,Remote,"Ammonia, Arsenic, Chloride, Copper, Iron, Nitrogen, Oxygen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Excellent,2019,http://www.gnb.ca/0009/0371/0013/index-e.asp,"http://indicators-map.canada.ca/App/Detail?id=0600BR01BV0024&GoCTemplateCulture=en-CA
+"
+02330001,Etchemin au Pont-Route 132 à Saint-Romuald,Quebec,46.76014,-71.22821,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0602330001&GoCTemplateCulture=en-CA
+"
+02340033,"Chaudière à 5, 6 km De l'Embouchureà Charny (Uf)",Quebec,46.701958,-71.280754,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0602340033&GoCTemplateCulture=en-CA
+"
+02400004,Bécancour au Pont-Route 132 à Bécancour,Quebec,46.3527,-72.439095,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0602400004&GoCTemplateCulture=en-CA
+"
+03005702502,Nottawasaga River,Ontario,44.47547,-80.00713,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.nvca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0603005702502&GoCTemplateCulture=en-CA
+"
+03020031,Saint-François au Pont-Route 132 à Pierreville,Quebec,46.067554,-72.815674,21,"Populated,  Agriculture,  and Mining","Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0603020031&GoCTemplateCulture=en-CA
+"
+03030023,Yamaska au Pont-Route à Yamaska,Quebec,46.004986,-72.91114,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Poor,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0603030023&GoCTemplateCulture=en-CA
+"
+03040009,"Richelieu à 1, 6 km De l'Embouchure à Sorel (Uf)",Quebec,46.015965,-73.12905,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0603040009&GoCTemplateCulture=en-CA
+"
+03090001,Châteauguay au Pont-Route 205 au Nord De Sainte-Martine,Quebec,45.286022,-73.80227,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0603090001&GoCTemplateCulture=en-CA
+"
+03110003,Saint-Louis au Pont-Route Entre le Rang Sainte-Anne et le Chemin Saint-Louis,Quebec,45.27076,-73.89565,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0603110003&GoCTemplateCulture=en-CA
+"
+04001304702,Thames River,Ontario,42.93475,-81.42151,19,"Populated,  Agriculture,  and Mining","Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.thamesriver.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0604001304702&GoCTemplateCulture=en-CA
+"
+04002701702,Sydenham River,Ontario,42.59179,-82.38763,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.scrca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0604002701702&GoCTemplateCulture=en-CA
+"
+04010002,Du Nord au Pont-Route 344 à Saint-André-Est,Quebec,45.56262,-74.33673,20,Populated,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604010002&GoCTemplateCulture=en-CA
+"
+04040001,De la Petite Nation au Pont-Route 148 à l'Ouest De Plaisance,Quebec,45.60503,-75.127235,20,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604040001&GoCTemplateCulture=en-CA
+"
+04060004,Du Lièvre au Pont-Route à Buckingham,Quebec,45.58588,-75.41884,20,Mining,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Good,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604060004&GoCTemplateCulture=en-CA
+"
+04080003,Gatineau au Pont-Route en Amont du Ruisseau Chelsea au Nord De Gatineau,Quebec,45.486984,-75.7489,20,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Good,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604080003&GoCTemplateCulture=en-CA
+"
+04300002,Kinojévis au Pont-Route 117 à l'Est De Mcwatters,Quebec,48.20804,-78.863716,20,Mining,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604300002&GoCTemplateCulture=en-CA
+"
+04320001,Des Mille Îles au Pont-Route 125 à Terrebonne,Quebec,45.6905,-73.630554,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604320001&GoCTemplateCulture=en-CA
+"
+04330019,Des Prairies à Son Embouchure au Centre du Pont-Route 138 (Pont le Gardeur),Quebec,45.704395,-73.483765,21,"Populated,  Agriculture,  and Mining","Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0604330019&GoCTemplateCulture=en-CA
+"
+05010007,"Saint-Maurice à 4, 5 km en Amont du Pont-Route 40 à Trois-Rivières et à 8 km De l'Embouchure (Uf)",Quebec,46.382053,-72.61004,21,Mining,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605010007&GoCTemplateCulture=en-CA
+"
+05030001,Batiscan au Pont-Route à Sainte-Geneviève-De-Batiscan,Quebec,46.5259,-72.33838,21,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Good,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605030001&GoCTemplateCulture=en-CA
+"
+05040007,Sainte-Anne au Pont-Route 138 à Sainte-Anne-De-la-Pérade,Quebec,46.5718,-72.20628,21,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605040007&GoCTemplateCulture=en-CA
+"
+05080006,Jacques-Cartier au Pont-Route à l'Embouchure à Donnacona,Quebec,46.67856,-71.75116,21,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Good,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605080006&GoCTemplateCulture=en-CA
+"
+05090017,Saint-Charles au Pont Dorchester à Quebec,Quebec,46.81918,-71.223434,21,Populated,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605090017&GoCTemplateCulture=en-CA
+"
+05220003,L' Assomption au Pont Rivest à le Gardeur (Repentigny); Depuis 1999 à 275 m en Amont du Pont Rivest ,Quebec,45.750996,-73.46836,21,"Populated,  Agriculture,  and Mining","Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605220003&GoCTemplateCulture=en-CA
+"
+05230001,La Chaloupe au Pont-Route le Plus Proche De l'Embouchure,Quebec,46.067196,-73.180336,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Poor,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605230001&GoCTemplateCulture=en-CA
+"
+05240001,Bayonne au Pont-Route à Berthierville,Quebec,46.094078,-73.17298,21,Populated and Agriculture,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Poor,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605240001&GoCTemplateCulture=en-CA
+"
+05280001,"Du Loup à 3, 2 km De Son Embouchure Avec le Saint-Laurent au Sud De Louiseville",Quebec,46.243713,-72.922844,21,Remote,"Ammonia, Chlorophyll, Nitrogen, pH, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.mddep.gouv.qc.ca/eau/flrivlac/iqe-iqbp.htm,"http://indicators-map.canada.ca/App/Detail?id=0605280001&GoCTemplateCulture=en-CA
+"
+06006300102,Oakville Creek,Ontario,43.44293,-79.67125,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.conservationhalton.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0606006300102&GoCTemplateCulture=en-CA
+"
+06007600302,Credit River,Ontario,43.64721,-79.85628,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.creditvalleyca.ca/,"http://indicators-map.canada.ca/App/Detail?id=0606007600302&GoCTemplateCulture=en-CA
+"
+06008301902,Humber River,Ontario,43.65143,-79.49133,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.trca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0606008301902&GoCTemplateCulture=en-CA
+"
+06008501402,Don River,Ontario,43.68847,-79.36214,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Poor,2019,http://www.trca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0606008501402&GoCTemplateCulture=en-CA
+"
+08002201602,Ausable River,Ontario,43.36212,-81.50945,19,High Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.abca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0608002201602&GoCTemplateCulture=en-CA
+"
+08004000802,Bayfield River,Ontario,43.55072,-81.58937,19,High Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.abca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0608004000802&GoCTemplateCulture=en-CA
+"
+08005600302,Maitland River,Ontario,43.8955,-81.3535,19,High Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.mvca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0608005600302&GoCTemplateCulture=en-CA
+"
+08012303002,Saugeen River,Ontario,44.4561,-81.32606,19,High Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.svca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0608012303002&GoCTemplateCulture=en-CA
+"
+12000400202,Cataraqui River,Ontario,44.29378,-76.44104,21,Low Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.cataraquiregion.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0612000400202&GoCTemplateCulture=en-CA
+"
+12001700102,Gananoque River,Ontario,44.3285,-76.16689,21,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.cataraquiregion.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0612001700102&GoCTemplateCulture=en-CA
+"
+12007301102,North Raisin River,Ontario,45.15011,-74.73579,21,Low Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.rrca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0612007301102&GoCTemplateCulture=en-CA
+"
+12007301502,South Raisin River,Ontario,45.09994,-74.67696,21,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.rrca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0612007301502&GoCTemplateCulture=en-CA
+"
+12008600202,Delisle River,Ontario,45.32857,-74.6179,21,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.rrca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0612008600202&GoCTemplateCulture=en-CA
+"
+16016400102,Nanticoke Creek,Ontario,42.80999,-80.07651,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.lprca.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0616016400102&GoCTemplateCulture=en-CA
+"
+16018403502,Grand River,Ontario,42.90027,-79.61985,19,"Populated,  Agriculture,  and Mining","Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.grandriver.ca/,"http://indicators-map.canada.ca/App/Detail?id=0616018403502&GoCTemplateCulture=en-CA
+"
+17002106702,Trent River,Ontario,44.30809,-77.95612,19,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.otonabee.com/orca/,"http://indicators-map.canada.ca/App/Detail?id=0617002106702&GoCTemplateCulture=en-CA
+"
+17002600902,Skootamotta River,Ontario,44.54924,-77.32831,19,Remote,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://quinteconservation.ca/web/,"http://indicators-map.canada.ca/App/Detail?id=0617002600902&GoCTemplateCulture=en-CA
+"
+17003100102,Salmon River,Ontario,44.19624,-77.2294,19,Low Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://quinteconservation.ca/web/,"http://indicators-map.canada.ca/App/Detail?id=0617003100102&GoCTemplateCulture=en-CA
+"
+17003500402,Napanee River,Ontario,44.32345,-76.87528,19,Low Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://quinteconservation.ca/web/,"http://indicators-map.canada.ca/App/Detail?id=0617003500402&GoCTemplateCulture=en-CA
+"
+18003300302,Kemptville Creek,Ontario,45.02736,-75.64159,20,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.rvca.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618003300302&GoCTemplateCulture=en-CA
+"
+18003303502,Rideau River,Ontario,44.95114,-75.81948,20,Low Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.rvca.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618003303502&GoCTemplateCulture=en-CA
+"
+18003303602,Jock River,Ontario,45.24921,-75.79081,20,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.rvca.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618003303602&GoCTemplateCulture=en-CA
+"
+18207010002,South Nation River,Ontario,45.31853,-75.09253,20,Populated and Agriculture,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.nation.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618207010002&GoCTemplateCulture=en-CA
+"
+18343023002,Mississippi River,Ontario,44.8502,-77.16923,20,Remote,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.mvc.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618343023002&GoCTemplateCulture=en-CA
+"
+18343061002,Fall River,Ontario,44.94763,-76.41068,20,Remote,"Ammonia, Chloride, Chromium, Nickel, Nitrogen, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.mvc.on.ca/,"http://indicators-map.canada.ca/App/Detail?id=0618343061002&GoCTemplateCulture=en-CA
+"
+AB05AB0070,Oldman River near Brocket-Left Bank,Alberta,49.55861,-113.82222,11,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Excellent,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05AB0070&GoCTemplateCulture=en-CA
+"
+AB05AD0010,Oldman River U/S Lethbridge,Alberta,49.70833,-112.875,11,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05AD0010&GoCTemplateCulture=en-CA
+"
+AB05AG0010,Oldman River D/S Lethbridge,Alberta,49.96111,-112.08472,11,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05AG0010&GoCTemplateCulture=en-CA
+"
+AB05AK0020,South Saskatchewan River above Medicine Hat,Alberta,50.04333,-110.72222,11,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05AK0020&GoCTemplateCulture=en-CA
+"
+AB05BH0010,Bow River at Cochrane,Alberta,51.17361,-114.46667,11,Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Excellent,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05BH0010&GoCTemplateCulture=en-CA
+"
+AB05BJ0450,Elbow River at 9th Ave Bridge,Alberta,51.04306,-114.04167,11,Populated and Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Excellent,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05BJ0450&GoCTemplateCulture=en-CA
+"
+AB05BM0010,Bow River below Carseland Weir,Alberta,50.83056,-113.41667,11,"Populated,  Agriculture,  and Mining","2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Good,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05BM0010&GoCTemplateCulture=en-CA
+"
+AB05BN0010,Bow River at Ronalane,Alberta,50.04639,-111.5911,11,"Populated,  Agriculture,  and Mining","2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Good,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05BN0010&GoCTemplateCulture=en-CA
+"
+AB05CC0010,Red Deer River above Red Deer,Alberta,52.26722,-113.86361,11,Medium Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05CC0010&GoCTemplateCulture=en-CA
+"
+AB05CD0250,Red Deer River at Nevis Bridge,Alberta,52.30639,-113.07917,11,Low Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05CD0250&GoCTemplateCulture=en-CA
+"
+AB05DF0010,NSR at Devon,Alberta,53.36889,-113.75139,10,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Good,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05DF0010&GoCTemplateCulture=en-CA
+"
+AB05EC0010,NSR at Pakan,Alberta,54.00278,-112.39833,10,"Populated,  Agriculture,  and Mining","2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB05EC0010&GoCTemplateCulture=en-CA
+"
+AB07BE0010,Athabasca River at Athabasca,Alberta,54.72222,-113.28611,6,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07BE0010&GoCTemplateCulture=en-CA
+"
+AB07DD0010,Athabasca River at Old Fort,Alberta,58.37722,-111.52278,6,Remote,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Good,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07DD0010&GoCTemplateCulture=en-CA
+"
+AB07GE0020,Wapiti River at Highway #40 Bridge South of Grande Prairie,Alberta,55.07194,-118.80472,6,Low Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Good,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07GE0020&GoCTemplateCulture=en-CA
+"
+AB07GJ0010,Smoky River at Watino,Alberta,55.71556,-117.62194,6,Low Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Marginal,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07GJ0010&GoCTemplateCulture=en-CA
+"
+AB07GJ0030,Wapiti River above Confluence of Smoky River,Alberta,55.135,-118.30833,6,Low Agriculture,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",0,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07GJ0030&GoCTemplateCulture=en-CA
+"
+AB07HF0010,Peace River at Ft. Vermilion,Alberta,58.40444,-116.12806,6,Agriculture and Mining,"2,4-D, Aluminum, Ammonia, Arsenic, Cadmium, Copper, Lead, MCPA, Mercury, Nitrogen, Oxygen, Phosphorus, Silver, Zinc",1,2015-2017,Fair,2019,http://environment.alberta.ca/apps/EdwReportViewer/LongTermRiverNetwork.aspx,"http://indicators-map.canada.ca/App/Detail?id=06AB07HF0010&GoCTemplateCulture=en-CA
+"
+AK08DC0001,"Salmon River at Hyder, Alaska",British Columbia,56.02167,-130.0714,1,Remote,"Alkalinity, Arsenic, Cadmium, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06AK08DC0001&GoCTemplateCulture=en-CA
+"
+AL05AK0001,"South Saskatchewan River at Hwy 41,",Alberta,50.7375,-110.09555,11,Agriculture and Mining,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05AK0001&GoCTemplateCulture=en-CA
+"
+AL05BA0011,Bow River at Highway 1 above Lake Louise,Alberta,51.44333,-116.2116,11,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05BA0011&GoCTemplateCulture=en-CA
+"
+AL05BE0013,Bow River about 4.5 km above Canmore,Alberta,51.12278,-115.3866,11,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05BE0013&GoCTemplateCulture=en-CA
+"
+AL05CK0001,"Red Deer River near Bindloss, Alberta",Alberta,50.90278,-110.29666,11,"Populated,  Agriculture,  and Mining","Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.ppwb.ca/information/146/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05CK0001&GoCTemplateCulture=en-CA
+"
+AL05DA0001,North Saskatchewan River at Whirlpool Point,Alberta,52.00278,-116.47222,10,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Excellent,2019,http://www.ppwb.ca/information/144/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05DA0001&GoCTemplateCulture=en-CA
+"
+AL05EF0003,North Saskatchewan River at Highway #17 Bridge,Alberta,53.60139,-110.0085,10,High Agriculture,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/information/144/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL05EF0003&GoCTemplateCulture=en-CA
+"
+AL06AD0001,"Beaver River at Beaver Crossing,",Alberta,54.35417,-110.21194,15,Low Agriculture,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.ppwb.ca/information/143/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL06AD0001&GoCTemplateCulture=en-CA
+"
+AL07AA0015,Athabasca River above Athabsca Falls,Alberta,52.66444,-117.88083,6,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL07AA0015&GoCTemplateCulture=en-CA
+"
+AL07AA0023,Athabasca River at Highway #16 below Snaring River,Alberta,53.04167,-118.0872,6,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06AL07AA0023&GoCTemplateCulture=en-CA
+"
+BC08EF0001,Skeena River at Usk,British Columbia,54.63444,-128.4092,1,Remote,"Cadmium, Chromium, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08EF0001&GoCTemplateCulture=en-CA
+"
+BC08GA0010,Cheakamus River below Stp,British Columbia,50.05803,-123.099,1,Remote,"Cadmium, Chloride, Copper, Lead, Nitrogen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08GA0010&GoCTemplateCulture=en-CA
+"
+BC08HA0018,Cowichan River 1km Downstream of Somenos Creek,British Columbia,48.7726,-123.6633,1,Populated,"Copper, Lead, Nitrogen, Oxygen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08HA0018&GoCTemplateCulture=en-CA
+"
+BC08HB0019,Englishman River at Hwy 19,British Columbia,49.316,-124.29,1,Remote,"Cadmium, Copper, Lead, Nitrogen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08HB0019&GoCTemplateCulture=en-CA
+"
+BC08HD0004,Quinsam River near the mouth,British Columbia,50.0267,-125.2967,1,Remote,"Alkalinity, Arsenic, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08HD0004&GoCTemplateCulture=en-CA
+"
+BC08KA0007,Fraser River at Red Pass,British Columbia,52.9878,-119.0101,2,Remote,"Copper, Lead, Nitrogen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Excellent,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08KA0007&GoCTemplateCulture=en-CA
+"
+BC08KE0010,Nechako River at Prince George,British Columbia,53.92722,-122.765,2,Remote,"Cadmium, Chromium, Copper, Nitrogen, Oxygen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08KE0010&GoCTemplateCulture=en-CA
+"
+BC08LE0004,Salmon River at Highway 1 Bridge,British Columbia,50.69139,-119.3289,2,Mining,"Cadmium, Chromium, Copper, Nitrogen, Oxygen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Poor,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08LE0004&GoCTemplateCulture=en-CA
+"
+BC08MC0001,Fraser River at Marguerite,British Columbia,52.52964,-122.44228,2,Mining,"Arsenic, Copper, Lead, Nitrogen, Oxygen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Marginal,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08MC0001&GoCTemplateCulture=en-CA
+"
+BC08MF0001,Fraser River at Hope,British Columbia,49.38722,-121.4508,2,Mining,"Arsenic, Copper, Lead, Nitrogen, Oxygen, pH, Phosphorus, Temperature, Thallium, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08MF0001&GoCTemplateCulture=en-CA
+"
+BC08MH0027,Sumas River at International Boundary,British Columbia,49.00244,-122.2323,2,Populated and Agriculture,"Cadmium, Chromium, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Sulphate, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08MH0027&GoCTemplateCulture=en-CA
+"
+BC08ND0003,Illecillewaet River at Glacier National Park Entrance,British Columbia,51.21376,-117.6958,4,Remote,"Cadmium, Chromium, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08ND0003&GoCTemplateCulture=en-CA
+"
+BC08NE0001,Columbia River at Waneta,British Columbia,49.01611,-117.6039,4,Mining,"Cadmium, Chromium, Copper, Lead, Nitrogen, pH, Phosphorus, Temperature, Thallium, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NE0001&GoCTemplateCulture=en-CA
+"
+BC08NE0029,Pend d'Oreille River at Waneta,British Columbia,49.00306,-117.6167,4,Remote,"Cadmium, Copper, Lead, Nitrogen, pH, Phosphorus, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NE0029&GoCTemplateCulture=en-CA
+"
+BC08NF0001,Kootenay River at Kootenay Crossing,British Columbia,50.88556,-116.0431,4,Remote,"Cadmium, Chromium, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NF0001&GoCTemplateCulture=en-CA
+"
+BC08NH0005,Kootenay River at Creston,British Columbia,49.11694,-116.5794,4,Mining,"Cadmium, Copper, Lead, Nickel, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NH0005&GoCTemplateCulture=en-CA
+"
+BC08NK0003,Elk River at Hwy 93,British Columbia,49.1797,-115.167,4,Mining,"Cadmium, Copper, Nitrogen, pH, Phosphorus, Selenium, Temperature, Zinc",1,2015-2017,Marginal,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NK0003&GoCTemplateCulture=en-CA
+"
+BC08NL0005,Similkameen River near International Boundary,British Columbia,49.0788,-119.7098,3,Mining,"Arsenic, Copper, Iron, Lead, Molybdenum, Nickel, Nitrogen, pH, Phosphorus, Temperature, Uranium, Zinc",1,2015-2017,Fair,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NL0005&GoCTemplateCulture=en-CA
+"
+BC08NM0001,Okanagan River at Oliver,British Columbia,49.11444,-119.565,3,Populated,"Cadmium, Chloride, Chromium, Fluoride, Nitrogen, pH, Phosphorus, Sulphate, Temperature",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NM0001&GoCTemplateCulture=en-CA
+"
+BC08NN0021,Kettle River at Carson,British Columbia,49.01965,-118.4747,4,Remote,"Cadmium, Cyanide, Fluoride, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",1,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06BC08NN0021&GoCTemplateCulture=en-CA
+"
+MA05KH0001,Saskatchewan River above Carrot River,Manitoba,53.841667,-101.33416,14,Mining,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.ppwb.ca/information/149/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MA05KH0001&GoCTemplateCulture=en-CA
+"
+MA05OB0001,"Pembina River at Windygates, Manitoba",Manitoba,49.03139,-98.27778,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MA05OB0001&GoCTemplateCulture=en-CA
+"
+MA05OC0001,"Red River at Emerson, Manitoba",Manitoba,49.00806,-97.21083,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ijc.org/conseil_board/red_river/en/irrb_home_accueil.htm,"http://indicators-map.canada.ca/App/Detail?id=06MA05OC0001&GoCTemplateCulture=en-CA
+"
+MA05PF0022,"Winnipeg River at Pointe du Bois,",Manitoba,50.30083,-95.55556,13,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MA05PF0022&GoCTemplateCulture=en-CA
+"
+MB05LES015,Woody River Northeast of Swan River,Manitoba,52.3764,-100.9733,14,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LES015&GoCTemplateCulture=en-CA
+"
+MB05LGS001,North Duck River at Cowan,Manitoba,52.0311,-100.6489,14,Remote,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LGS001&GoCTemplateCulture=en-CA
+"
+MB05LJS007,Ochre River near Ochre River Community,Manitoba,51.0514,-99.78778,14,Low Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Marginal,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LJS007&GoCTemplateCulture=en-CA
+"
+MB05LJS009,Turtle River at Ste. Rose du Lac,Manitoba,51.0519,-99.5275,14,High Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LJS009&GoCTemplateCulture=en-CA
+"
+MB05LJS014,Valley River North of Dauphin,Manitoba,51.2822,-100.0158,14,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LJS014&GoCTemplateCulture=en-CA
+"
+MB05LJS016,Vermilion River North of Dauphin,Manitoba,51.1881,-100.0144,14,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Marginal,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LJS016&GoCTemplateCulture=en-CA
+"
+MB05LLS001,Whitemud River at Westbourne,Manitoba,50.1333,-98.59,14,High Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05LLS001&GoCTemplateCulture=en-CA
+"
+MB05MFS098,Little Saskatchewan River near Rivers,Manitoba,50.0236,-100.2067,12,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Good,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05MFS098&GoCTemplateCulture=en-CA
+"
+MB05MHS006,Assiniboine River NW of Treesbank,Manitoba,49.6944,-99.6564,12,Agriculture and Mining,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05MHS006&GoCTemplateCulture=en-CA
+"
+MB05MJS053,Assiniboine River at Headingley,Manitoba,49.8689,-97.4047,12,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Marginal,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05MJS053&GoCTemplateCulture=en-CA
+"
+MB05NGS003,Souris River near Treesbank,Manitoba,49.6275,-99.59833,12,Agriculture and Mining,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05NGS003&GoCTemplateCulture=en-CA
+"
+MB05ODS032,Roseau River near Dominion City,Manitoba,49.1456,-97.1675,12,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05ODS032&GoCTemplateCulture=en-CA
+"
+MB05OES026,Rat River at Otterburne,Manitoba,49.5019,-97.05111,12,Medium Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05OES026&GoCTemplateCulture=en-CA
+"
+MB05OFS060,Boyne River at Carman,Manitoba,49.5064,-98.00361,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05OFS060&GoCTemplateCulture=en-CA
+"
+MB05OGS039,La Salle River Downstream of la Barrier Park Dam,Manitoba,49.7228,-97.17139,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05OGS039&GoCTemplateCulture=en-CA
+"
+MB05OJS006,Cooks Creek at Springfield and St. Clements Boundary,Manitoba,50.0625,-96.80611,12,High Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Good,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05OJS006&GoCTemplateCulture=en-CA
+"
+MB05OJS074,Red River Downstream of Winnipeg,Manitoba,50.1411,-96.86861,12,Mining,"2,4-D, Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Marginal,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05OJS074&GoCTemplateCulture=en-CA
+"
+MB05SAS038,Brokenhead River near Scanterbury,Manitoba,50.3694,-96.60778,14,Low Agriculture,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05SAS038&GoCTemplateCulture=en-CA
+"
+MB05TGS006,Burntwood River at Thompson,Manitoba,55.7536,-97.84194,14,Mining,"Ammonia, Arsenic, Cadmium, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Good,2019,http://www.gov.mb.ca/waterstewardship/water_quality/quality/index.html,"http://indicators-map.canada.ca/App/Detail?id=06MB05TGS006&GoCTemplateCulture=en-CA
+"
+NF02XA0001,Little Mecatina River,Newfoundland and Labrador,52.2283,-61.3256,22,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02XA0001,"http://indicators-map.canada.ca/App/Detail?id=06NF02XA0001&GoCTemplateCulture=en-CA
+"
+NF02YE0004,Portland Creek,Newfoundland and Labrador,50.1817,-57.6036,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YE0004,"http://indicators-map.canada.ca/App/Detail?id=06NF02YE0004&GoCTemplateCulture=en-CA
+"
+NF02YE0005,Western Brook at Bridge,Newfoundland and Labrador,49.8289,-57.855,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YE0005,"http://indicators-map.canada.ca/App/Detail?id=06NF02YE0005&GoCTemplateCulture=en-CA
+"
+NF02YG0001,Main River,Newfoundland and Labrador,49.7694,-56.9042,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YG0001,"http://indicators-map.canada.ca/App/Detail?id=06NF02YG0001&GoCTemplateCulture=en-CA
+"
+NF02YH0018,Lomond River,Newfoundland and Labrador,49.4019,-57.7303,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YH0018,"http://indicators-map.canada.ca/App/Detail?id=06NF02YH0018&GoCTemplateCulture=en-CA
+"
+NF02YJ0004,Pinchgut Brook,Newfoundland and Labrador,48.7975,-58.0619,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YJ0004,"http://indicators-map.canada.ca/App/Detail?id=06NF02YJ0004&GoCTemplateCulture=en-CA
+"
+NF02YK0022,Humber Canal,Newfoundland and Labrador,49.1661,-57.4156,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YK0022,"http://indicators-map.canada.ca/App/Detail?id=06NF02YK0022&GoCTemplateCulture=en-CA
+"
+NF02YL0011,Humber River at Little Falls,Newfoundland and Labrador,49.3474,-57.2348,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YL0011,"http://indicators-map.canada.ca/App/Detail?id=06NF02YL0011&GoCTemplateCulture=en-CA
+"
+NF02YL0012,Humber River at Humber Village Bridge,Newfoundland and Labrador,48.9836,-57.7611,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YL0012,"http://indicators-map.canada.ca/App/Detail?id=06NF02YL0012&GoCTemplateCulture=en-CA
+"
+NF02YL0013,Corner Brook at Margaret Bowater Park,Newfoundland and Labrador,48.9444,-57.9367,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YL0013,"http://indicators-map.canada.ca/App/Detail?id=06NF02YL0013&GoCTemplateCulture=en-CA
+"
+NF02YL0029,Wild Cover Brook,Newfoundland and Labrador,48.9744,-57.8839,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YL0029,"http://indicators-map.canada.ca/App/Detail?id=06NF02YL0029&GoCTemplateCulture=en-CA
+"
+NF02YN0001,Lloyds River at Bridge,Newfoundland and Labrador,48.3044,-57.7186,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YN0001,"http://indicators-map.canada.ca/App/Detail?id=06NF02YN0001&GoCTemplateCulture=en-CA
+"
+NF02YO0001,Exploit's River,Newfoundland and Labrador,48.9239,-55.6604,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0001,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0001&GoCTemplateCulture=en-CA
+"
+NF02YO0020,Exploit's River,Newfoundland and Labrador,48.9493,-55.9126,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0020,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0020&GoCTemplateCulture=en-CA
+"
+NF02YO0107,Exploits River Approx. 0.5km Downstream from Dam,Newfoundland and Labrador,48.7594,-56.5919,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0107,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0107&GoCTemplateCulture=en-CA
+"
+NF02YO0128,Exploits River below Grand Falls,Newfoundland and Labrador,48.9368,-55.6176,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0128,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0128&GoCTemplateCulture=en-CA
+"
+NF02YO0142,Corduroy Brook,Newfoundland and Labrador,48.94,-55.6628,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0142,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0142&GoCTemplateCulture=en-CA
+"
+NF02YO0143,Exploit's River,Newfoundland and Labrador,49.067,-55.437,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YO0143,"http://indicators-map.canada.ca/App/Detail?id=06NF02YO0143&GoCTemplateCulture=en-CA
+"
+NF02YQ0030,Gander River at Appleton,Newfoundland and Labrador,48.9949,-54.8674,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YQ0030,"http://indicators-map.canada.ca/App/Detail?id=06NF02YQ0030&GoCTemplateCulture=en-CA
+"
+NF02YQ0072,Careless Brook at Resource Road Steel Bridge,Newfoundland and Labrador,48.9021,-54.9939,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YQ0072,"http://indicators-map.canada.ca/App/Detail?id=06NF02YQ0072&GoCTemplateCulture=en-CA
+"
+NF02YS0001,Terra Nova River at Terra Nova,Newfoundland and Labrador,48.5075,-54.2119,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YS0001,"http://indicators-map.canada.ca/App/Detail?id=06NF02YS0001&GoCTemplateCulture=en-CA
+"
+NF02YS0011,Terra Nova River at E.S. Spencer Bridge,Newfoundland and Labrador,48.6408,-54.0364,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YS0011,"http://indicators-map.canada.ca/App/Detail?id=06NF02YS0011&GoCTemplateCulture=en-CA
+"
+NF02YS0083,Northwest River at Terra Nova,Newfoundland and Labrador,48.3956,-54.1981,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02YS0083,"http://indicators-map.canada.ca/App/Detail?id=06NF02YS0083&GoCTemplateCulture=en-CA
+"
+NF02ZA0006,Grand Codroy River,Newfoundland and Labrador,47.8689,-59.1181,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZA0006,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZA0006&GoCTemplateCulture=en-CA
+"
+NF02ZK0005,Northeast River,Newfoundland and Labrador,47.2731,-53.8403,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZK0005,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZK0005&GoCTemplateCulture=en-CA
+"
+NF02ZL0029,Goulds Brook,Newfoundland and Labrador,47.505,-53.2911,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZL0029,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZL0029&GoCTemplateCulture=en-CA
+"
+NF02ZM0004,Waterford River at Commonwealth Avenue,Newfoundland and Labrador,47.5219,-52.8081,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0004,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0004&GoCTemplateCulture=en-CA
+"
+NF02ZM0009,Waterford River,Newfoundland and Labrador,47.5294,-52.7428,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0009,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0009&GoCTemplateCulture=en-CA
+"
+NF02ZM0014,Virginia River,Newfoundland and Labrador,47.5839,-52.6914,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0014,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0014&GoCTemplateCulture=en-CA
+"
+NF02ZM0016,Rennies River,Newfoundland and Labrador,47.5778,-52.7008,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0016,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0016&GoCTemplateCulture=en-CA
+"
+NF02ZM0020,Broad Cove Brook,Newfoundland and Labrador,47.5981,-52.8814,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0020,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0020&GoCTemplateCulture=en-CA
+"
+NF02ZM0098,Virginia River at Headwaters,Newfoundland and Labrador,47.5989,-52.7547,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0098,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0098&GoCTemplateCulture=en-CA
+"
+NF02ZM0175,Waterford River at Brookfield Road,Newfoundland and Labrador,47.5261,-52.7633,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0175,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0175&GoCTemplateCulture=en-CA
+"
+NF02ZM0176,South Brook at mouth,Newfoundland and Labrador,47.5281,-52.7467,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0176,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0176&GoCTemplateCulture=en-CA
+"
+NF02ZM0177,Rennies River at Portugal Cove Road,Newfoundland and Labrador,47.5744,-52.71,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0177,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0177&GoCTemplateCulture=en-CA
+"
+NF02ZM0178,Learys Brook at Clinch Crescent Bridge,Newfoundland and Labrador,47.5725,-52.7392,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0178,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0178&GoCTemplateCulture=en-CA
+"
+NF02ZM0179,Virginia River at Guzzwell Drive,Newfoundland and Labrador,47.5964,-52.7017,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0179,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0179&GoCTemplateCulture=en-CA
+"
+NF02ZM0180,Virginia River at Newfoundland Drive,Newfoundland and Labrador,47.5997,-52.7006,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0180,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0180&GoCTemplateCulture=en-CA
+"
+NF02ZM0181,Waterford River,Newfoundland and Labrador,47.5481,-52.7192,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0181,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0181&GoCTemplateCulture=en-CA
+"
+NF02ZM0182,Waterford River at Bremigans Pond,Newfoundland and Labrador,47.5186,-52.8558,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0182,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0182&GoCTemplateCulture=en-CA
+"
+NF02ZM0183,Kelligrews River at Kelliview Crescent,Newfoundland and Labrador,47.4958,-53.0175,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0183,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0183&GoCTemplateCulture=en-CA
+"
+NF02ZM0185,South Brook at Headwaters,Newfoundland and Labrador,47.4947,-52.8133,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0185,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0185&GoCTemplateCulture=en-CA
+"
+NF02ZM0294,Manuals River,Newfoundland and Labrador,47.5197,-52.9447,25,Populated,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZM0294,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZM0294&GoCTemplateCulture=en-CA
+"
+NF02ZN0004,Salmonier River,Newfoundland and Labrador,47.1817,-53.3989,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF02ZN0004,"http://indicators-map.canada.ca/App/Detail?id=06NF02ZN0004&GoCTemplateCulture=en-CA
+"
+NF03NF0013,Ugjoktok River,Newfoundland and Labrador,55.2333,-61.2992,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03NF0013,"http://indicators-map.canada.ca/App/Detail?id=06NF03NF0013&GoCTemplateCulture=en-CA
+"
+NF03OA0020,Ashuanipi River,Newfoundland and Labrador,53.0017,-66.2416,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OA0020,"http://indicators-map.canada.ca/App/Detail?id=06NF03OA0020&GoCTemplateCulture=en-CA
+"
+NF03OC0012,Atikonak River,Newfoundland and Labrador,52.9675,-64.6611,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OC0012,"http://indicators-map.canada.ca/App/Detail?id=06NF03OC0012&GoCTemplateCulture=en-CA
+"
+NF03OD0011,East Metchin River-Labrador,Newfoundland and Labrador,53.4353,-63.2342,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OD0011,"http://indicators-map.canada.ca/App/Detail?id=06NF03OD0011&GoCTemplateCulture=en-CA
+"
+NF03OD0012,Wilson River East Branch,Newfoundland and Labrador,53.3092,-62.9197,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OD0012,"http://indicators-map.canada.ca/App/Detail?id=06NF03OD0012&GoCTemplateCulture=en-CA
+"
+NF03OE0030,Minipi River,Newfoundland and Labrador,52.6147,-61.1864,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OE0030,"http://indicators-map.canada.ca/App/Detail?id=06NF03OE0030&GoCTemplateCulture=en-CA
+"
+NF03OE0032,Pinus River at Hydrometric Station,Newfoundland and Labrador,53.1478,-61.5586,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OE0032,"http://indicators-map.canada.ca/App/Detail?id=06NF03OE0032&GoCTemplateCulture=en-CA
+"
+NF03OE0033,Big Pond Brook,Newfoundland and Labrador,53.5119,-60.2919,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OE0033,"http://indicators-map.canada.ca/App/Detail?id=06NF03OE0033&GoCTemplateCulture=en-CA
+"
+NF03OE0035,Dominion Lake,Newfoundland and Labrador,52.728935,-61.75402,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OE0035,"http://indicators-map.canada.ca/App/Detail?id=06NF03OE0035&GoCTemplateCulture=en-CA
+"
+NF03OE0037,Cache River,Newfoundland and Labrador,53.1925,-62.2031,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03OE0037,"http://indicators-map.canada.ca/App/Detail?id=06NF03OE0037&GoCTemplateCulture=en-CA
+"
+NF03PB0025,Naskaupi River below Naskaupi Lake,Newfoundland and Labrador,54.1317,-61.4292,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03PB0025,"http://indicators-map.canada.ca/App/Detail?id=06NF03PB0025&GoCTemplateCulture=en-CA
+"
+NF03PB0028,Cape Caribou River,Newfoundland and Labrador,53.6211,-60.4144,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03PB0028,"http://indicators-map.canada.ca/App/Detail?id=06NF03PB0028&GoCTemplateCulture=en-CA
+"
+NF03PB0032,Susan River,Newfoundland and Labrador,53.7381,-60.9467,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03PB0032,"http://indicators-map.canada.ca/App/Detail?id=06NF03PB0032&GoCTemplateCulture=en-CA
+"
+NF03QC0001,Eagle River,Newfoundland and Labrador,53.465,-57.5581,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03QC0001,"http://indicators-map.canada.ca/App/Detail?id=06NF03QC0001&GoCTemplateCulture=en-CA
+"
+NF03QC0002,Alexis River Approx. 48 km from Port Hope Simpson,Newfoundland and Labrador,52.6489,-56.8714,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.canal.gov.nl.ca/root/main/station_details_e.asp?envirodat=NF03QC0002,"http://indicators-map.canada.ca/App/Detail?id=06NF03QC0002&GoCTemplateCulture=en-CA
+"
+NS01DC0001,Annapolis R. at Bridge 650m South Hwy 1 (WSC Gauge),Nova Scotia,44.9536,-65.0025,24,Populated and Agriculture,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01DC0001&GoCTemplateCulture=en-CA
+"
+NS01DC0203,South Annapolis River at Millville,Nova Scotia,45.0017,-64.8223,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.novascotia.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01DC0203&GoCTemplateCulture=en-CA
+"
+NS01DD0016,Cornwallis River at Bridge 850 m North of Hwy 1,Nova Scotia,45.0647,-64.6358,24,Populated and Agriculture,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01DD0016&GoCTemplateCulture=en-CA
+"
+NS01DL0009,"Kelley River at Nine Mile Ford, Game Sanctuary",Nova Scotia,45.5867,-64.4517,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01DL0009&GoCTemplateCulture=en-CA
+"
+NS01DR0001,South River at St. Andrews,Nova Scotia,45.5578,-61.9039,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01DR0001&GoCTemplateCulture=en-CA
+"
+NS01EA0001,Tusket River at Wilsons Bridge,Nova Scotia,43.9242,-65.8667,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EA0001&GoCTemplateCulture=en-CA
+"
+NS01EC0005,"Roseway River (WSC Gauge), Lower Ohio",Nova Scotia,43.8381,-65.3694,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EC0005&GoCTemplateCulture=en-CA
+"
+NS01ED0005,Mersey R. below Mill Falls SW of Maitland Bridge,Nova Scotia,44.43667,-65.22278,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01ED0005&GoCTemplateCulture=en-CA
+"
+NS01ED9111,Shelburne River,Nova Scotia,44.2117,-65.2383,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01ED9111&GoCTemplateCulture=en-CA
+"
+NS01EF0002,Lahave River at West Northfield Bridge (WSC Gauge),Nova Scotia,44.4467,-64.5917,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EF0002&GoCTemplateCulture=en-CA
+"
+NS01EJ0001,"Sackville River at Hwy 1 Bridge, Bedford",Nova Scotia,44.7303,-63.6631,24,Populated,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EJ0001&GoCTemplateCulture=en-CA
+"
+NS01EJ0157,Little Sackville River,Nova Scotia,44.7636,-63.6889,24,Populated,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EJ0157&GoCTemplateCulture=en-CA
+"
+NS01EO0001,"St. Mary's River at Hwy 7 Bridge, Stillwater",Nova Scotia,45.1739,-61.98,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01EO0001&GoCTemplateCulture=en-CA
+"
+NS01FB0001,Northeast Margaree River at Bridge (WSC Gauge),Nova Scotia,46.3656,-60.975,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01FB0001&GoCTemplateCulture=en-CA
+"
+NS01FC0004,Cheticamp River above Robert Brook (WSC Gauge),Nova Scotia,46.6428,-60.9439,24,Remote,"Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,http://www.gov.ns.ca/nse/surface.water/,"http://indicators-map.canada.ca/App/Detail?id=06NS01FC0004&GoCTemplateCulture=en-CA
+"
+NW07OB0002,Hay River near Alberta/NWT Border,Northwest Territories,60.0047,-116.971,7,Remote,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW07OB0002&GoCTemplateCulture=en-CA
+"
+NW07SA0010,Marian River at Frank's Channel,Northwest Territories,62.83778,-116.15638,7,Remote,"Ammonia, Arsenic, Chloride, Chromium, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW07SA0010&GoCTemplateCulture=en-CA
+"
+NW07SB0007,Yellowknife River Upstream of Yellowknife Bay,Northwest Territories,62.574165,-114.34611,7,Remote,"Ammonia, Arsenic, Chloride, Chromium, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW07SB0007&GoCTemplateCulture=en-CA
+"
+NW07SB0010,Cameron River below Reid Lake,Northwest Territories,62.498055,-113.74972,7,Remote,"Ammonia, Arsenic, Chloride, Chromium, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW07SB0010&GoCTemplateCulture=en-CA
+"
+NW10ED0001,Liard River at Fort Liard,Northwest Territories,60.2431,-123.479,7,Mining,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10ED0001&GoCTemplateCulture=en-CA
+"
+NW10ED0002,Liard River near the mouth,Northwest Territories,61.7397,-121.219,7,Mining,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10ED0002&GoCTemplateCulture=en-CA
+"
+NW10FB0006,Mackenzie River at Strong Point,Northwest Territories,61.8181,-120.79,7,Mining,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10FB0006&GoCTemplateCulture=en-CA
+"
+NW10JC0001,Great Bear River at Outlet of Great Bear Lake,Northwest Territories,65.1358,-123.514,7,Remote,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10JC0001&GoCTemplateCulture=en-CA
+"
+NW10KA0001,Mackenzie River at Norman Wells,Northwest Territories,65.2817,-126.849,7,Remote,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10KA0001&GoCTemplateCulture=en-CA
+"
+NW10LA0003,Mackenzie River above Arctic Red River,Northwest Territories,67.45611,-133.73694,7,Remote,"Ammonia, Chloride, Copper, Iron, Lead, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.ainc-inac.gc.ca/nth/wa/wm-eng.asp,"http://indicators-map.canada.ca/App/Detail?id=06NW10LA0003&GoCTemplateCulture=en-CA
+"
+PE01CA0001,Mill River at WSC Gauge in Bloomfield Park,Prince Edward Island,46.744167,-64.18166,24,Low Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=673,"http://indicators-map.canada.ca/App/Detail?id=06PE01CA0001&GoCTemplateCulture=en-CA
+"
+PE01CA0043,Cain's Brook near Bloomfield Corner,Prince Edward Island,46.754623,-64.17974,24,Low Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=674,"http://indicators-map.canada.ca/App/Detail?id=06PE01CA0043&GoCTemplateCulture=en-CA
+"
+PE01CB0001,Dunk River at Wall Road,Prince Edward Island,46.345554,-63.63278,24,High Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Fair,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=1149,"http://indicators-map.canada.ca/App/Detail?id=06PE01CB0001&GoCTemplateCulture=en-CA
+"
+PE01CB0143,Wilmot River near Kelvin Grove,Prince Edward Island,46.393333,-63.65861,24,Populated and Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=1135,"http://indicators-map.canada.ca/App/Detail?id=06PE01CB0143&GoCTemplateCulture=en-CA
+"
+PE01CC0010,Clyde R. about 1.5 km North of Clyde R. (Hwy 247),Prince Edward Island,46.236942,-63.2625,24,Populated and Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=329,"http://indicators-map.canada.ca/App/Detail?id=06PE01CC0010&GoCTemplateCulture=en-CA
+"
+PE01CC0213,West River at Riverdale,Prince Edward Island,46.23083,-63.35139,24,Medium Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=330,"http://indicators-map.canada.ca/App/Detail?id=06PE01CC0213&GoCTemplateCulture=en-CA
+"
+PE01CD0003,Morell River from Road Bridge,Prince Edward Island,46.362778,-62.703056,24,Medium Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=1105,"http://indicators-map.canada.ca/App/Detail?id=06PE01CD0003&GoCTemplateCulture=en-CA
+"
+PE01CD0050,Bear River at St. Margarets,Prince Edward Island,46.453056,-62.3825,24,Low Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",1,2015-2017,Fair,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=36,"http://indicators-map.canada.ca/App/Detail?id=06PE01CD0050&GoCTemplateCulture=en-CA
+"
+PE01CE0099,Montague River above Knox Pond,Prince Edward Island,46.149723,-62.696945,24,High Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=623,"http://indicators-map.canada.ca/App/Detail?id=06PE01CE0099&GoCTemplateCulture=en-CA
+"
+PE01CE0100,Valleyfield River near Kilmuir,Prince Edward Island,46.13861,-62.67806,24,Medium Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Good,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=650,"http://indicators-map.canada.ca/App/Detail?id=06PE01CE0100&GoCTemplateCulture=en-CA
+"
+PE01CE0101,Montague River at Oceanview,Prince Edward Island,46.068962,-62.81274,24,Populated and Agriculture,"Chloride, Copper, Nitrogen, Oxygen, pH, Phosphorus, Total Suspended Solids, Zinc",0,2015-2017,Fair,2019,http://www.gov.pe.ca/waterdata/index/viewstation?map=YES&Station_ID=648,"http://indicators-map.canada.ca/App/Detail?id=06PE01CE0101&GoCTemplateCulture=en-CA
+"
+QU02LB9001,Des Outaouais à Carillon,Quebec,45.56757,-74.37987,20,Mining,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02LB9001&GoCTemplateCulture=en-CA
+"
+QU02NG3013,"Rivière Saint-Maurice, Prise D'eau De l'Usine De Filtration De Trois-Rivières",Quebec,46.382,-72.6105,21,Mining,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Fair,2019,NULL,"http://indicators-map.canada.ca/App/Detail?id=06QU02NG3013&GoCTemplateCulture=en-CA
+"
+QU02NG3020,"Rivière à la Pêche, Station Cabin Rpa001 (Parc National De la Mauricie)",Quebec,46.67764,-72.86525,21,Remote,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Good,2019,NULL,"http://indicators-map.canada.ca/App/Detail?id=06QU02NG3020&GoCTemplateCulture=en-CA
+"
+QU02OB9004,"Fleuve Saint-Laurent, Prise D'eau De l'Usine De Filtration De Lavaltrie",Quebec,45.874416,-73.28065,21,Populated and Mining,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",0,2015-2017,Marginal,2019,NULL,"http://indicators-map.canada.ca/App/Detail?id=06QU02OB9004&GoCTemplateCulture=en-CA
+"
+QU02OD3004,Nicolet River at Nicolet,Quebec,46.245373,-72.65123,21,Populated and Agriculture,"Ammonia, Atrazine, Bentazone, Chlorophyll, Dicamba, Metolachlor, Nitrogen, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02OD3004&GoCTemplateCulture=en-CA
+"
+QU02OD9009,"St. Lawrence River, Water Intake of Becancour's Filtration Plant",Quebec,46.311577,-72.54601,21,Populated and Mining,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02OD9009&GoCTemplateCulture=en-CA
+"
+QU02OF3004,Saint-François River at Pierreville,Quebec,46.066376,-72.81218,21,"Populated,  Agriculture,  and Mining","Ammonia, Atrazine, Bentazone, Chlorophyll, Dicamba, Metolachlor, Nitrogen, Phosphorus, Turbidity",1,2015-2017,Fair,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02OF3004&GoCTemplateCulture=en-CA
+"
+QU02OG3007,"Yamaska River, Highway 132 Bridge",Quebec,46.00506,-72.91007,21,Populated and Agriculture,"Ammonia, Atrazine, Bentazone, Chlorophyll, Dicamba, Metolachlor, Nitrogen, Phosphorus, Turbidity",1,2015-2017,Marginal,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02OG3007&GoCTemplateCulture=en-CA
+"
+QU02OJ0052,"Richelieu River, Water Intake of Sorel' S Filtration Plant",Quebec,46.033974,-73.117584,21,Populated and Agriculture,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Marginal,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02OJ0052&GoCTemplateCulture=en-CA
+"
+QU02PH9024,Saint-Laurent à Lévis,Quebec,46.80712,-71.19001,21,Populated and Mining,"Ammonia, Chlorophyll, Copper, Mercury, Nickel, Nitrogen, pH, Phosphorus, Turbidity, Zinc",1,2015-2017,Fair,2019,http://www.ec.gc.ca/stl/default.asp?lang=Fr&n=ECB00D30-1,"http://indicators-map.canada.ca/App/Detail?id=06QU02PH9024&GoCTemplateCulture=en-CA
+"
+SA05JM0014,Qu'Appelle River Approx. 3.2km. South,Saskatchewan,50.48389,-101.54306,12,Agriculture and Mining,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/information/153/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA05JM0014&GoCTemplateCulture=en-CA
+"
+SA05KH0002,"Carrot River near Turnberry,",Saskatchewan,53.6,-102.11667,14,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Marginal,2019,http://www.ppwb.ca/information/150/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA05KH0002&GoCTemplateCulture=en-CA
+"
+SA05LC0001,"Red Deer River at Erwood,",Saskatchewan,52.86667,-102.18306,14,Low Agriculture,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/information/146/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA05LC0001&GoCTemplateCulture=en-CA
+"
+SA05MD0002,Assiniboine River at Hwy 8 Bridge,Saskatchewan,51.53306,-101.8888,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,http://www.ppwb.ca/information/152/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA05MD0002&GoCTemplateCulture=en-CA
+"
+SA06AF0001,Cold River at Outlet of Cold Lake,Saskatchewan,54.566666,-109.83611,15,Remote,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.ppwb.ca/map/142/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA06AF0001&GoCTemplateCulture=en-CA
+"
+SA06EA0003,Churchill River below Wasawakasik,Saskatchewan,55.60806,-102.19556,15,Mining,"Ammonia, Arsenic, Chloride, Copper, Lead, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.ppwb.ca/information/148/index.html,"http://indicators-map.canada.ca/App/Detail?id=06SA06EA0003&GoCTemplateCulture=en-CA
+"
+SK05EG0090,N.sask.r.-N. Battleford-U/c-Upstrm-Hwy #16 Br,Saskatchewan,52.7595,-108.3248,10,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05EG0090&GoCTemplateCulture=en-CA
+"
+SK05FF0020,Battle River,Saskatchewan,52.7083,-108.275,10,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05FF0020&GoCTemplateCulture=en-CA
+"
+SK05GD0076,N Sask R at Borden Br.,Saskatchewan,52.3733,-107.1483,10,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05GD0076&GoCTemplateCulture=en-CA
+"
+SK05GG0022,N Sask River Cecil Ferry -Right Bank (South Bank),Saskatchewan,53.245,-105.4361,10,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05GG0022&GoCTemplateCulture=en-CA
+"
+SK05GG0023,N Sask River at Pa Wtp,Saskatchewan,53.2038,-105.774,10,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05GG0023&GoCTemplateCulture=en-CA
+"
+SK05GG0102,N Sask River Cecil N Bank (Left Bank,Saskatchewan,53.2468,-105.4361,10,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05GG0102&GoCTemplateCulture=en-CA
+"
+SK05HB0087,S Sask R Leader Bridger #21 Hwy,Saskatchewan,50.9696,-109.5716,11,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HB0087&GoCTemplateCulture=en-CA
+"
+SK05HF0205,S Sask R-near Outlook # 15 Hwy,Saskatchewan,51.4743,-107.0763,11,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HF0205&GoCTemplateCulture=en-CA
+"
+SK05HF0206,Qu' Appelle R at #19 Hwy,Saskatchewan,50.9833,-106.416,11,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HF0206&GoCTemplateCulture=en-CA
+"
+SK05HG0283,S Sask R at Qe Power Plant,Saskatchewan,52.0917,-106.7017,11,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HG0283&GoCTemplateCulture=en-CA
+"
+SK05HH0176,S Sask R-Muskowday Bridge,Saskatchewan,53.1208,-105.4669,11,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HH0176&GoCTemplateCulture=en-CA
+"
+SK05HH0267,S Sask R-Clarkboro Ferry-Left (West Bank),Saskatchewan,52.3199,-106.4554,11,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05HH0267&GoCTemplateCulture=en-CA
+"
+SK05JF0092,Qu'Appelle R above Wascana Creek,Saskatchewan,50.6348,-104.9392,12,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05JF0092&GoCTemplateCulture=en-CA
+"
+SK05JF0595,Qu'Appelle R. Dwnstrm Hwy 11 Rock Dyke Nr Irr.pump,Saskatchewan,50.6545,-104.8515,12,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05JF0595&GoCTemplateCulture=en-CA
+"
+SK05JG0126,Qu'Appelle R at #2 Hwy,Saskatchewan,50.7169,-105.5978,12,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05JG0126&GoCTemplateCulture=en-CA
+"
+SK05JL0129,Qu'Appelle R at #56 Hwy.,Saskatchewan,50.6506,-103.5876,12,Agriculture and Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05JL0129&GoCTemplateCulture=en-CA
+"
+SK05KD0089,Tobin Lake at Eb Campbell Dam,Saskatchewan,53.6881,-103.3475,14,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05KD0089&GoCTemplateCulture=en-CA
+"
+SK05KD0154,Sask R at #6 Hwy-Old Gronlid Ferry,Saskatchewan,53.2325,-104.4892,14,Mining,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05KD0154&GoCTemplateCulture=en-CA
+"
+SK05MC0038,Assiniboine River,Saskatchewan,51.5639,-101.9158,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05MC0038&GoCTemplateCulture=en-CA
+"
+SK05NB0198,Souris R at #39 Hwy,Saskatchewan,49.0706,-102.8087,12,High Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",1,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK05NB0198&GoCTemplateCulture=en-CA
+"
+SK06AD0041,Beaver River at Dorintosh,Saskatchewan,54.2956,-108.6011,15,Low Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK06AD0041&GoCTemplateCulture=en-CA
+"
+SK06AG0022,Beaver River at Beauval,Saskatchewan,55.1333,-107.6042,15,Remote,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/Lower-QuAppelle-River-Watershed/,"http://indicators-map.canada.ca/App/Detail?id=06SK06AG0022&GoCTemplateCulture=en-CA
+"
+SK06CD0027,Churchill River at Otter Rapids,Saskatchewan,55.6403,-104.7347,15,Remote,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,http://www.swa.ca/Stewardship/WatershedPlanning/Default.asp?type=NSWS,"http://indicators-map.canada.ca/App/Detail?id=06SK06CD0027&GoCTemplateCulture=en-CA
+"
+SK07CD0001,Clearwater River at Highway 955,Saskatchewan,56.89806,-108.97944,6,Remote,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Excellent,2019,https://www.wsask.ca/Water-Info/Watershed-Planning/,"http://indicators-map.canada.ca/App/Detail?id=06SK07CD0001&GoCTemplateCulture=en-CA
+"
+US05NF0001,Souris River near Westhope,Manitoba,48.99972,-100.9,12,Medium Agriculture,"2,4-D, Ammonia, Arsenic, Chloride, Copper, Lead, MCPA, Nickel, Nitrogen, Oxygen, pH, Phosphorus, Zinc",0,2015-2017,Marginal,2019,http://www.mb.ec.gc.ca/water/fa00s05.en.html,"http://indicators-map.canada.ca/App/Detail?id=06US05NF0001&GoCTemplateCulture=en-CA
+"
+WS-S-0168,Shoal Harbour River,Newfoundland and Labrador,48.188656,-54.01121,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Fair,2019,http://www.env.gov.nl.ca/Env/env/waterres/Reports/Reports.asp,"http://indicators-map.canada.ca/App/Detail?id=06WS-S-0168&GoCTemplateCulture=en-CA
+"
+WS-S-0369,Indian Bay Brook,Newfoundland and Labrador,49.041,-53.882,25,Remote,"Chloride, Copper, Iron, Lead, Nickel, Nitrogen, pH, Phosphorus, Zinc",0,2015-2017,Good,2019,http://www.env.gov.nl.ca/Env/env/waterres/Reports/Reports.asp,"http://indicators-map.canada.ca/App/Detail?id=06WS-S-0369&GoCTemplateCulture=en-CA
+"
+YT09AB0008,Yukon River Upstream of Takhini River,Yukon,60.8352,-135.1802,5,Remote,"Arsenic, Copper, Lead, Nitrogen, Oxygen, pH, Phosphorus, Temperature, Zinc",0,2015-2017,Excellent,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06YT09AB0008&GoCTemplateCulture=en-CA
+"
+YT09DD0008,South Mcquesten River Downstream of Flat Creek,Yukon,63.91412,-135.72314,5,Remote,"Arsenic, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",0,2015-2017,Marginal,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06YT09DD0008&GoCTemplateCulture=en-CA
+"
+YT09EA0001,Klondike River Upstream of Bonanza Creek,Yukon,64.0426,-139.3973,5,Remote,"Arsenic, Copper, Lead, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",0,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06YT09EA0001&GoCTemplateCulture=en-CA
+"
+YT10AA0001,Liard River at Upper Crossing,Yukon,60.04772,-128.90182,7,Remote,"Chromium, Copper, Nitrogen, pH, Phosphorus, Silver, Temperature, Zinc",0,2015-2017,Good,2019,http://aquatic.pyr.ec.gc.ca/webdataonlinenational,"http://indicators-map.canada.ca/App/Detail?id=06YT10AA0001&GoCTemplateCulture=en-CA
+"

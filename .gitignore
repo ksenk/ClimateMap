@@ -1,0 +1,12 @@
+# IGNORE THESE FILES
+/Files/geomet-climate-CANGRD.ANO.TM_ANNUAL.tif
+/Files/geomet-climate-DCS.TM.HISTO.YEAR.ABS_PCTL50.tif
+/Files/income.geojson
+/Files/2017_INRP-NPRI.csv
+.DS_Store
+/Files/.DS_Store
+
+# IGNORE THESE DIRECTORIES
+/Files/lcd_000b16a_e/
+/Files/nbac_2018_r2_20190626_1020/
+/Files/AL_TA_AB_GML_eng/
