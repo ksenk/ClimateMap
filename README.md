@@ -1,17 +1,17 @@
 # EnvironmentJusticeMap
 
+https://www.hackworks.com/en/meteohack/teams/environmentjusticemap
+
 ## Team Members
 - [Ksenia Kolosova](https://github.com/ksenk)
 - [Marie-Pierre Bastien-Thibault](https://github.com/MarieBt)
 - [David Wawryko](https://github.com/digitalfabric92)
 
-https://www.hackworks.com/en/meteohack/teams/environmentjusticemap
-
 ## Features
 * Natural Phenomena and Environmental Racism Map
 * Pollution and Environmental Racism Map
 
-## [Demo Video] (https://youtu.be/nYdaN7RUibE)
+## [Demo Video](https://youtu.be/nYdaN7RUibE)
 
 
 ## Future Developments
