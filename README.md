@@ -2,6 +2,54 @@
 MétéoHack 2019 project
 
 
+
+__________________________________________________________________________________
+
+Data Sources
+
+Climate Map
+Environment
+Absolute trend mean temperature: https://open.canada.ca/data/en/dataset/958b8357-3690-414d-8bec-d65951041636
+Relative trend total precipitation: https://open.canada.ca/data/en/dataset/286dd106-b507-472a-9a26-f72dceffb475
+Droughts:
+https://open.canada.ca/data/en/dataset/292646cd-619f-4200-afb1-8b2c52f984a2
+Floods 2019: https://open.canada.ca/data/en/dataset/b1afd8d2-6e14-4ec4-9a09-652221a6cb71
+National Burned Area Composite 2018:
+https://cwfis.cfs.nrcan.gc.ca/datamart
+
+Social
+Aboriginal lands legislative boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
+Aboriginal status by District: https://censusmapper.ca/api
+Minority status by District: https://censusmapper.ca/api
+Income by District: https://censusmapper.ca/api
+Poverty status by District: https://censusmapper.ca/api
+Population by District: https://censusmapper.ca/api
+Climate action: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
+
+Polluter Map
+Environment
+Peak fine particulate: http://indicators-map.canada.ca/App/CESI_ICDE
+Average fine particulate: http://indicators-map.canada.ca/App/CESI_ICDE
+Peak ozone: http://indicators-map.canada.ca/App/CESI_ICDE
+Average ozone: http://indicators-map.canada.ca/App/CESI_ICDE
+Greenhouse gas emissions large corps: http://indicators-map.canada.ca/App/CESI_ICDE
+Pollutant Places: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4d7d4a706f08
+Air pollution CAC: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4d7d4a706f08
+Air pollution non-CAC: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4d7d4a706f08
+Land releases: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4d7d4a706f08
+Water releases: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4d7d4a706f08
+Water quality at monitoring sites: http://indicators-map.canada.ca/App/CESI_ICDE
+
+Social
+Aboriginal lands legislative boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
+Aboriginal status by District: https://censusmapper.ca/api
+Minority status by District: https://censusmapper.ca/api
+Income by District: https://censusmapper.ca/api
+Poverty status by District: https://censusmapper.ca/api
+Population by District: https://censusmapper.ca/api
+Climate action: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
+
+
 Climate Change/Environment Information :
 
 Mean Temperature 1951- : https://climate-change.canada.ca/climate-data/#/downscaled-data
