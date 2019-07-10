@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 Data Sources
 
-Climate Map
+**Climate Map**
 
-Environment
+*Environment*
 
 Absolute trend mean temperature: https://open.canada.ca/data/en/dataset/958b8357-3690-414d-8bec-d65951041636
 
@@ -23,7 +23,7 @@ Floods 2019: https://open.canada.ca/data/en/dataset/b1afd8d2-6e14-4ec4-9a09-6522
 National Burned Area Composite 2018:
 https://cwfis.cfs.nrcan.gc.ca/datamart
 
-Social
+*Social*
 
 Aboriginal lands legislative boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
 
@@ -40,9 +40,9 @@ Population by District: https://censusmapper.ca/api
 Climate action: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
 
 
-Polluter Map
+**Polluter Map**
 
-Environment
+*Environment*
 
 Peak fine particulate: http://indicators-map.canada.ca/App/CESI_ICDE
 
@@ -66,7 +66,7 @@ Water releases: https://open.canada.ca/data/en/dataset/274ede77-27b9-46b8-96c8-4
 
 Water quality at monitoring sites: http://indicators-map.canada.ca/App/CESI_ICDE
 
-Social
+*Social*
 
 Aboriginal lands legislative boundaries: https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067
 
