@@ -1,43 +1,62 @@
   h1 
-  {text-align: center;
+  {padding: 10px;
+  text-align: center;
   font-familly: "Times New Roman";
   font-size: 50px;
    }
   div.choixdelangue     
-  {padding-top: 200xp;
+  {padding-top: 40px;
   text-align: center;
   font-familly: "Times New Roman";
   font-size: 25px;
   color: #000000;
    }  
   h2 
-  {text-align: center;
+  {padding: 10px;
+  text-align: center;
   font-familly: "Times New Roman";
   font-size: 30px;
    }
   div.souspage   
-  {padding-top: 200xp;
+  {padding-top: 20px;
   text-align: center;
   font-familly: "Times New Roman";
   font-size: 25px;
   color: #000000;
    }
    h3  
-  {padding-top: 250xp;
+  {padding-top: 20px;
   text-align: center;
   font-familly: "Times New Roman";
   font-size: 20px;
   color: #000000;
    }
   h4  
-  {padding-top: 275xp;
+  {padding:25px;
   font-familly: "Times New Roman";
-  font-size: 20px;
+  font-size: 17px;
    color: #000000;
    }
   div.text
-  {padding-top: 275xp;
+  {padding-right: 25px;
+  padding-left: 25px;
+  text-align: justify;
+  line-height: 1.15;
   font-familly: "Times New Roman";
   font-size: 15px;
    color: #000000;
    }
+  div.source
+  {font-familly: "Times New Roman";
+  font-size: 10px;
+  color: #000000;
+   }
+  a
+  {text-decoration: none;
+  padding-right: 10px;
+   }
+  p
+  {line-height: 1.8;
+   }
+
+ 
