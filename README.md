@@ -50,6 +50,10 @@ Population by District: https://censusmapper.ca/api
 Climate action: https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA
 
 
+__________________________________________________________________________________
+
+
+
 Climate Change/Environment Information :
 
 Mean Temperature 1951- : https://climate-change.canada.ca/climate-data/#/downscaled-data
