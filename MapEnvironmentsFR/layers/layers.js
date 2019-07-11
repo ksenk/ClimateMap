@@ -96,8 +96,7 @@ jsonSource_RevenuannueltotalparindividuCAD_2.addFeatures(features_Revenuannuelto
                                 "TILED": "true",
                                 "VERSION": "1.3.0"},
                             })),
-                            title: "Tendance relative des precipitations totales
-",
+                            title: "Tendance relative des precipitations totales",
                             opacity: 0.444000,
                             
                             

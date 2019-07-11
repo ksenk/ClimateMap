@@ -141,7 +141,7 @@ jsonSource_Qualitedeleau_9.addFeatures(features_Qualitedeleau_9);var lyr_Qualite
                 declutter: true,
                 source:jsonSource_Qualitedeleau_9, 
                 style: style_Qualitedeleau_9,
-    title: 'Qualite de l'eau<br />\
+    title: 'Qualite de leau<br />\
     <img src="styles/legend/Qualitedeleau_9_0.png" /> Excellent<br />\
     <img src="styles/legend/Qualitedeleau_9_1.png" /> Fair<br />\
     <img src="styles/legend/Qualitedeleau_9_2.png" /> Good<br />\
@@ -158,7 +158,7 @@ jsonSource_ConcentrationmaximalededioxydedazotePPB_10.addFeatures(features_Conce
                 declutter: true,
                 source:jsonSource_ConcentrationmaximalededioxydedazotePPB_10, 
                 style: style_ConcentrationmaximalededioxydedazotePPB_10,
-    title: 'Concentration maximale de dioxyde d'azote (PPB)<br />\
+    title: 'Concentration maximale de dioxyde de azote (PPB)<br />\
     <img src="styles/legend/ConcentrationmaximalededioxydedazotePPB_10_0.png" /> 3.0 - 15.0<br />\
     <img src="styles/legend/ConcentrationmaximalededioxydedazotePPB_10_1.png" /> 15.0 - 27.0<br />\
     <img src="styles/legend/ConcentrationmaximalededioxydedazotePPB_10_2.png" /> 27.0 - 39.0<br />\
@@ -174,7 +174,7 @@ jsonSource_ConcentrationmoyennededioxydedazotePPB_11.addFeatures(features_Concen
                 declutter: true,
                 source:jsonSource_ConcentrationmoyennededioxydedazotePPB_11, 
                 style: style_ConcentrationmoyennededioxydedazotePPB_11,
-    title: 'Concentration moyenne de dioxyde d'azote (PPB)<br />\
+    title: 'Concentration moyenne de dioxyde dazote (PPB)<br />\
     <img src="styles/legend/ConcentrationmoyennededioxydedazotePPB_11_0.png" /> 0.2000 - 3.8600<br />\
     <img src="styles/legend/ConcentrationmoyennededioxydedazotePPB_11_1.png" /> 3.8600 - 7.5200<br />\
     <img src="styles/legend/ConcentrationmoyennededioxydedazotePPB_11_2.png" /> 7.5200 - 11.1800<br />\
@@ -190,7 +190,7 @@ jsonSource_ConcentrationmaximaledozonePPB_12.addFeatures(features_Concentrationm
                 declutter: true,
                 source:jsonSource_ConcentrationmaximaledozonePPB_12, 
                 style: style_ConcentrationmaximaledozonePPB_12,
-    title: 'Concentration maximale d'ozone (PPB)<br />\
+    title: 'Concentration maximale dozone (PPB)<br />\
     <img src="styles/legend/ConcentrationmaximaledozonePPB_12_0.png" /> 32.5000 - 48.6000<br />\
     <img src="styles/legend/ConcentrationmaximaledozonePPB_12_1.png" /> 48.6000 - 64.7000<br />\
     <img src="styles/legend/ConcentrationmaximaledozonePPB_12_2.png" /> 64.7000 - 80.8000<br />\
@@ -206,7 +206,7 @@ jsonSource_ConcentrationmoyennedozonePPB_13.addFeatures(features_Concentrationmo
                 declutter: true,
                 source:jsonSource_ConcentrationmoyennedozonePPB_13, 
                 style: style_ConcentrationmoyennedozonePPB_13,
-    title: 'Concentration moyenne d'ozone (PPB)<br />\
+    title: 'Concentration moyenne dozone (PPB)<br />\
     <img src="styles/legend/ConcentrationmoyennedozonePPB_13_0.png" /> 11.0000 - 17.4000<br />\
     <img src="styles/legend/ConcentrationmoyennedozonePPB_13_1.png" /> 17.4000 - 23.8000<br />\
     <img src="styles/legend/ConcentrationmoyennedozonePPB_13_2.png" /> 23.8000 - 30.2000<br />\
